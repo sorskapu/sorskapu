@@ -75,7 +75,7 @@
     <!--Header -->
     <header id="top" class="header_asztrologia-006">
         <div class="text-vertical-center">
-            <h4 class="btn btn-dark btn-lg" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;"><a href="../#tovabb2">Asztrológiai írások</a> / A Nap - a rendezői utasítás</h4>
+            <h4 class="btn btn-dark btn-lg" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;"><a href="../#tovabb2">Asztrológiai írások</a> / 2014. november 6. - Telihold</h4>
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
