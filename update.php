@@ -1,2 +1,2 @@
 <?php
-system('git pull');
+system('sudo git pull');
