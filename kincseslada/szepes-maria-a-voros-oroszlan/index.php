@@ -98,10 +98,6 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/OEovStx2uwY?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">                           
-                            <h4>1. A Vörös Oroszlán csodálatos reinkarnációja</h4>
-                        </div><!-- /caption -->
-                
                     </div><!-- /thumbnail -->
  				</div><!-- /col-sm-6 col-md-4 -->
                 <!--/1.51-->
@@ -114,10 +110,6 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/Qxg-aDv5zHA?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">                           
-                            <h4>2. Adam Cadmon</h4>
-                        </div><!-- /caption -->
-                
                     </div><!-- /thumbnail -->
                 </div><!-- /col-sm-6 col-md-4 -->
                 <!--/2.51-->
@@ -130,10 +122,6 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/TmEbSBLqKzA?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">                           
-                            <h4>3. Rituel de la Haute Magie</h4>
-                        </div><!-- /caption -->
-                
                     </div><!-- /thumbnail -->
                 </div><!-- /col-sm-6 col-md-4 -->
                 <!--/3.51-->
@@ -146,13 +134,189 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/RpNTEb7BREM?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">                           
-                            <h4>4. Sebastian, aki nem érkezett meg sehová</h4>
-                        </div><!-- /caption -->
-                
                     </div><!-- /thumbnail -->
                 </div><!-- /col-sm-6 col-md-4 -->
-                <!--/3.51-->
+                <!--/4.51-->
+
+                <!--5.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/vNhpzBD00Lw?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/5.51-->
+
+                <!--6.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/13q0tFCqP9s?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/6.51-->
+
+                <!--7.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/TFNrqvowkU0?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/7.51-->
+
+                <!--8.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/lMEsi0SvUwU?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/8.51-->
+
+                <!--9.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/bOPwA2hCD74?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/9.51-->
+
+                <!--10.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/15z6El_AkyA?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/10.51-->
+                
+                <!--11.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/XO3jiTFv4Vk?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/11.51-->
+
+                <!--12.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/abDsflDbyAM?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/12.51-->
+
+                <!--13.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/jPBYLXiA9d4?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/13.51-->
+
+                <!--14.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/7vdJaPSz-e8?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/14.51-->
+
+                <!--15.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/3Q7jC_cPTfw?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/15.51-->
+
+                <!--16.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/k1l0xTVaB38?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/16.51-->
+
+                <!--17.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/5T9ZX2ud-UA?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/17.51-->
+
+                <!--18.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/TccpBxEwSP8?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/18.51-->
+
+                <!--19.51-->
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/Wv_EOdbNnMk?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/19.51-->
 
             </div><!-- /row -->
         </div><!-- /container -->
