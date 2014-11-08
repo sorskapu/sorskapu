@@ -4,9 +4,6 @@
                     <br /><br />
                     
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<!--AdSense-->
-<div class="col-md-4 col-md-offset-3">
 <!-- sorskapu -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:728px;height:90px"
@@ -15,5 +12,3 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-</div>
-<!--/AdSense-->
