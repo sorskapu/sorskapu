@@ -13,7 +13,10 @@
 		<div class="collapse navbar-collapse" id="sorskapu-navbar-collapse">
             <ul class="nav navbar-nav navbar-left">
 			    <li><a href="/">Programok</a></li>
-                <li><a href="/csaladfelallitas/">Családfelállítás</a></li>
+                <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Módszerek <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/csaladfelallitas/">Családfelállítás</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Asztrológia <b class="caret"></b></a>
                         <ul class="dropdown-menu">
@@ -26,6 +29,8 @@
                             <li><a href="/asztrologia/2014-november-6-telihold/">2014. november 6. - Telihold</a></li>
                             <li><a href="/asztrologia/2012-2015-uranusz–pluto-quadrat/">2012 - 2015. | Uránusz - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/a-nap-a-rendezoi-utasitas/">A Nap - a rendezői utasítás</a></li>
+                        </ul>
+                </li>
                         </ul>
                 </li>
 				<li class="dropdown">
