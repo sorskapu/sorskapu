@@ -4,17 +4,15 @@
                     <br /><br />
                     
 <!--AdSense-->
-<div class="col-md-4 col-md-offset-3">
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- sorskapu 2 -->
+<!-- sorskapu -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
+     style="display:inline-block;width:728px;height:90px"
      data-ad-client="ca-pub-8101132359371519"
-     data-ad-slot="8173156583"></ins>
+     data-ad-slot="5202794180"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-</div>
 <!--/AdSense-->
