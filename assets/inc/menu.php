@@ -51,8 +51,15 @@
                             <!--<li class="divider"></li>-->
                         </ul>
                 </li>
-                <li><a href="/partnerek/" class="guru">Partnerek</a></li>
-				<li><a href="#kapcsolat" class="guru">Kapcsolat</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kapcsolatok<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/partnerek/" class="guru">Partnerek</a></li>
+                            <li><a href="#kapcsolat" class="guru">Elérhetőség</a></li>
+                            <!--<li class="divider"></li>-->
+                        </ul>
+                </li>
+                
 		    </ul>
 			<ul class="nav navbar-nav navbar-right">
                 <li><a href="#top" class="guru">&uarr; Ugrás a tetejére&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
