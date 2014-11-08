@@ -91,127 +91,71 @@
                 <div class="col-lg-12">
 				
                 <!--1.51-->
-			    <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#01">
-                            1/51. A Vörös Oroszlán csodálatos reinkarnációja
-                            </a>
-                            </h4>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/OEovStx2uwY?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
-                        <div id="01" class="panel-collapse collapse">
-                            <div class="panel-body">
-                            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/OEovStx2uwY?rel=0" frameborder="0" allowfullscreen></iframe></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+                        <div class="caption">                           
+                            <h4>1. A Vörös Oroszlán csodálatos reinkarnációja</h4>
+                        </div><!-- /caption -->
+                
+                    </div><!-- /thumbnail -->
+ 				</div><!-- /col-sm-6 col-md-4 -->
                 <!--/1.51-->
 
                 <!--2.51-->
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#02">
-                            2/51. Adam Cadmon
-                            </a>
-                            </h4>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/Qxg-aDv5zHA?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
-                        <div id="02" class="panel-collapse collapse">
-                            <div class="panel-body">
-                            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/Qxg-aDv5zHA?rel=0" frameborder="0" allowfullscreen></iframe></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+                        <div class="caption">                           
+                            <h4>2. Adam Cadmon</h4>
+                        </div><!-- /caption -->
+                
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
                 <!--/2.51-->
 
                 <!--3.51-->
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#03">
-                            3/51. Rituel de la Haute Magie
-                            </a>
-                            </h4>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/TmEbSBLqKzA?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
-                        <div id="03" class="panel-collapse collapse">
-                            <div class="panel-body">
-                            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/TmEbSBLqKzA?rel=0" frameborder="0" allowfullscreen></iframe></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+                        <div class="caption">                           
+                            <h4>3. Rituel de la Haute Magie</h4>
+                        </div><!-- /caption -->
+                
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
                 <!--/3.51-->
 
                 <!--4.51-->
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#04">
-                            4/51. Sebastian, aki nem érkezett meg sehová
-                            </a>
-                            </h4>
+                <div class="col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="490" height="276" src="//www.youtube.com/embed/RpNTEb7BREM?rel=0" frameborder="0" allowfullscreen></iframe>
                         </div>
-                        <div id="04" class="panel-collapse collapse">
-                            <div class="panel-body">
-                            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/RpNTEb7BREM?rel=0" frameborder="0" allowfullscreen></iframe></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/4.51-->
 
-                <!--5.51-->
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#05">
-                            5/51. Eduard Anselmus Rochard
-                            </a>
-                            </h4>
-                        </div>
-                        <div id="05" class="panel-collapse collapse">
-                            <div class="panel-body">
-                            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/vNhpzBD00Lw?rel=0" frameborder="0" allowfullscreen></iframe></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/5.51-->
-<<<<<<< HEAD
+                        <div class="caption">                           
+                            <h4>4. Sebastian, aki nem érkezett meg sehová</h4>
+                        </div><!-- /caption -->
                 
-                <!--6.51-->
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#06">
-                            6/51. A befalazott kripta
-                            </a>
-                            </h4>
-                        </div>
-                        <div id="06" class="panel-collapse collapse">
-                            <div class="panel-body">
-                            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/13q0tFCqP9s?rel=0" frameborder="0" allowfullscreen></iframe></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/6.51-->
-                
-                </div>
-=======
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/3.51-->
 
- 				</div>
->>>>>>> e29bb2c... Initial commit
-            </div><!-- /.row -->
-        </div><!-- /.container -->
+            </div><!-- /row -->
+        </div><!-- /container -->
 		
     </section>
 	<!--/Kincsesláda-Szepes Mária - A Vörös Oroszlán-->
