@@ -77,7 +77,7 @@
         <div class="text-vertical-center">
             <h3 style="margin-top:100px;">Asztrológia<br /></h3>
 			<br />
-			<a href="#tovabb" class="btn btn-dark btn-lg guru">Asztrológiai időjárás-jelentés</a><br /><br />
+			<a href="#tovabb" class="btn btn-dark btn-lg guru">Asztrológiai időjárásjelentés</a><br /><br />
             <a href="#tovabb2" class="btn btn-dark btn-lg guru">Asztrológiai írások</a><br /><br />
 			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
         </div>
