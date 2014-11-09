@@ -69,7 +69,7 @@
     </div>
 
     <!--Menu-->
-	<?php include '../assets/inc/menu.php';?>
+	<?php include '/assets/inc/menu.php';?>
 	<!--/Menu-->
 
     <!--Header-->
