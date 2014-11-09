@@ -33,9 +33,9 @@
                                             <li><a href="/asztrologia/a-nap-a-rendezoi-utasitas/">A Nap - a rendezői utasítás</a></li>
                                         </ul>
                                 </li>
-                            <li class="disabled"><a href="#" title="Hamarosan">Symbolon</a></li>
-                            <li class="disabled"><a href="#" title="Hamarosan">Párterápia</a></li>
-                            <li class="disabled"><a href="#" title="Hamarosan">Elsőbbségi hívás</a></li>
+                            <li class="disabled"><a href="#">Symbolon</a></li>
+                            <li class="disabled"><a href="#">Párterápia</a></li>
+                            <li class="disabled"><a href="#">Elsőbbségi hívás</a></li>
                         </ul>
                 </li>
 				<li class="dropdown">
