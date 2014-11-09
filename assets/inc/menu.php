@@ -50,7 +50,7 @@
                         <ul class="dropdown-menu">
                             <li><a href="/kincseslada/szepes-maria-a-voros-oroszlan/">Szepes Mária - A Vörös Oroszlán</a></li>
                             <li><a href="/kincseslada/#peterorban">Peter Orban - A hős utazása</a></li>
-                            <li><a href="/kincseslada/#card">Kártyák és tartozékaik</a></li>
+                            <li><a href="/kincseslada/#card">Symbolon kellékek</a></li>
                             <!--<li class="divider"></li>-->
                         </ul>
                 </li>

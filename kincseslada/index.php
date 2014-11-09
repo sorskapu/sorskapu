@@ -194,7 +194,7 @@
                 <section id="card" style="padding:50px 0;">
 
                 <div class="panel panel-default">
-				<div class="panel-heading"><h2>Kártyák és tartozékaik</h2></div>
+				<div class="panel-heading"><h2>Symbolon kellékek</h2></div>
 				<div class="panel-body">
 				
 				<div class="col-sm-6 col-md-4">
