@@ -19,7 +19,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Módszerek <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="/csaladfelallitas/">Családfelállítás</a></li>
-                                <li class="dropdown dropdown-submenu">
+                                <li class="dropdown-submenu">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Asztrológia</a>
                                         <ul class="dropdown-menu">
 						                    <li class="dropdown-header">Asztrológiai idõjárás-jelentés</li>
