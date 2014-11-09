@@ -19,9 +19,11 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Módszerek <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="/magunkrol/">Magunkról</a></li>
+                            <li class="divider"></li>
                             <li class="dropdown-header">Családfelállítás</li>
-                            <li><a href="/csaladfelallitas/">A családfelállításről</a></li>
+                            <li><a href="/csaladfelallitas/">A családfelállításról</a></li>
                             <li><a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/">Újabb gondolatok a témában</a></li>
+                            <li class="divider"></li>
                             <li><a href="/asztrologia/">Asztrológia</a></li>
                             <li class="disabled"><a href="#">Symbolon</a></li>
                             <li class="disabled"><a href="#">Párterápia</a></li>
