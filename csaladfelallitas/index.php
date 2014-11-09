@@ -75,10 +75,9 @@
     <!--Header-->
     <header id="top" class="header_csaladfelallitas">
         <div class="text-vertical-center">
-            <h3 style="margin-top:100px;">Családfelállítás</h3>
-			<br />
-            <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
-			<div class="fb-like" data-href="http://sorskapu.hu/csaladfelallitas/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            <a href="#tovabb" class="btn btn-dark btn-lg">A családállításról</a><br /><br />
+            <a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/" style="margin-top:100px;" class="btn btn-dark btn-lg guru">Újabb gondolatok a témában</a><br /><br />
+            <div class="fb-like" data-href="http://sorskapu.hu/csaladfelallitas/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
 	<!--Header-->

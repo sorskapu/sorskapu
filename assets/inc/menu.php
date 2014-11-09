@@ -27,7 +27,7 @@
                             <li><a href="/asztrologia/">Asztrológia</a></li>
                             <li class="disabled"><a href="#">Symbolon</a></li>
                             <li class="disabled"><a href="#">Párterápia</a></li>
-                            <li class="disabled"><a href="#">Elsőbbségi hívás</a></li>
+                            <li class="disabled"><a href="#">Egyéni terápia</a></li>
                         </ul>
                 </li>
 				<li class="dropdown">
