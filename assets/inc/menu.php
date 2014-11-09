@@ -43,7 +43,7 @@
                         <ul class="dropdown-menu">
                             <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
 						    <li><a href="/melleklet/kapcsolatok/">Kapcsolatok</a></li>
-							<li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk, akkor pedig színrõl-színre ...</a></li>
+							<li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk</a></li>
 							<!--<li class="divider"></li>-->
                         </ul>
                 </li>
