@@ -28,7 +28,7 @@
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="../assets/css/stylish-portfolio.css" rel="stylesheet">
+    <link href="../../assets/css/stylish-portfolio.css" rel="stylesheet">
 	
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -69,7 +69,7 @@
     </div>
 
     <!--Menu-->
-	<?php include '/assets/inc/menu.php';?>
+	<?php include '../../assets/inc/menu.php';?>
 	<!--/Menu-->
 
     <!--Header-->
