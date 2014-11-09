@@ -94,7 +94,7 @@
                 <!--Egyébb írások-->
                 <section style="padding:50px 0;">
 
-                <div class="alert alert-success" role="alert">Asztrológiai idõjárás-jelentés</div>
+                <div class="alert alert-success" role="alert">Egyébb írások</div>
 			    
                 <div class="media">
                     <a class="pull-left" href="biztonsag/"><img class="media-object" src="//cdn.sorskapu.hu/ml-biztonsag.jpg" alt="Kerekes Andrea - Biztonság"></a>
