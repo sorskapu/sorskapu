@@ -98,8 +98,8 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpkmeJDCJ0HHT0TehWX7C_Iu" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">
-                            <h4>A Vörös Oroszlán</h4>                            
+                        <div style="margin-top: -20px;" class="caption">
+                            <h4>Szepes Mária - A Vörös Oroszlán</h4>                            
                         </div><!-- /.caption -->
 
                     </div><!-- /thumbnail -->
