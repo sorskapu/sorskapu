@@ -88,9 +88,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-				
-				    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/O49LAmKk6Uc?rel=0" frameborder="0" allowfullscreen></iframe></div>
-				    					
+								    			    					
 					<div class="panel panel-default">
                     <div class="panel-heading"><h2>Mi az a családfelállítás?</h2></div>
                     <div class="panel-body">
@@ -177,6 +175,8 @@
                     <p class="lead" style="text-align:justify;">Azoknak ajánlom magam, akik szeretik a határozott, nyílt, egyenes beszédet, s képesek ezt elfogadni tőlem, vagy legalábbis megpróbálják komolyan venni, amit mondok, minden sértődés nélkül. Azoknak ajánlom magam, akik osztják azt a nézőpontot, hogy én csak kísérőjük lehetek az úton. Kézenfogom a klienseket, s támogatom őket egy darabon, de aztán saját lábukon kell tovább haladniuk. Azoknak ajánlom magam, akik egy olyan embertől szeretnének segítséget kérni, aki Bert Hellinger tanítványától, Peter Orbantól tanulta ezt a módszert, s tőle kapott engedélyt (diplomát) arra, hogy családfelállításokat vezessen.</p>
                     </div>
                     </div>
+
+                    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/O49LAmKk6Uc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 					
 					<div class="well well-sm">
 					<h4><strong>Csoportvezető: </strong>Kerekes Andrea</h4>

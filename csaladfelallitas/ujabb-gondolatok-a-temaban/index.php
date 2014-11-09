@@ -88,9 +88,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-				
-				    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/A1v-Ttr5VLI?rel=0" frameborder="0" allowfullscreen></iframe></div>
-				    					
+								    				    					
 					<div class="panel panel-default">
                     <div class="panel-heading"><h2>Újabb gondolatok a témában</h2></div>
                     <div class="panel-body">
@@ -109,6 +107,8 @@
                     <p class="lead" style="text-align:justify;">Örülök, hogy elégedettek vagytok a munkámmal, köszönöm a sok pozitív visszajelzést és köszönöm végtelen bizalmatokat, s egyben kérlek titeket, hogy egymást is bátorítsátok! Nagy segítséget jelenthet valakinek az, ha olyan hozzászólásokat olvas, ahol személyes tapasztalatokról van szó. Nem elég, ha csak én beszélek, beszélgessetek ti is! Kérdezzetek, válaszoljatok, kételkedjetek, nyilatkozzatok, kezdjetek el kommunikálni, akár itt, ezalatt a bejegyzés alatt! De a Facebook oldalunk vagy a YouTube is teljesen alkalmas erre. Szeretném, ha egy nyitott társaság venne minket körül. Hasonló vagy közös érdeklődésű emberek találkozóhelye lehet a Sorskapu! Csak rajtatok múlik! Legyetek kezdeményezők!</p>
                     </div>
                     </div>
+
+                    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/A1v-Ttr5VLI?rel=0" frameborder="0" allowfullscreen></iframe></div>
 														
 					<div class="well well-sm">
 					<h4><strong>Csoportvezető: </strong>Kerekes Andrea</h4>
