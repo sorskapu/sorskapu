@@ -128,15 +128,15 @@
                 <div class="alert alert-danger" role="alert">Asztrológiai idõjárás-jelentés</div>
                 
                 <div class="media">
-                    <a class="pull-left" href="../asztrologia/2014-oktober-nap-pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-003.jpg" alt="Asztrológiai időjárásjelentés: 2014. október 4. | Nap - Plútó quadrát"></a>
+                    <a class="pull-left" href="/asztrologia/2014-oktober-nap-pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-003.jpg" alt="Asztrológiai időjárásjelentés: 2014. október 4. | Nap - Plútó quadrát"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="../asztrologia/2014-oktober-nap-pluto-quadrat/" alt="Asztrológiai időjárás-jelentés | 2014. október 4.">2014. október 4. | Nap - Plútó quadrát</a></h4>
+                    <h4 class="media-heading"><a href="/asztrologia/2014-oktober-nap-pluto-quadrat/" alt="Asztrológiai időjárás-jelentés | 2014. október 4.">2014. október 4. | Nap - Plútó quadrát</a></h4>
                     <p>Sötétebbek lesznek most a nappalok és hosszabbak az éjszakák. Ólmos nehézség üli meg a levegőt. Hideg és dermedt idő várható.</p>
                 </div>
                 </div>
                 
                 <div class="media">
-                    <a class="pull-left" href="../asztrologia/2014-szeptember-oktober-nap-a-merlegben/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-002.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember-október | Nap a Mérlegben"></a>
+                    <a class="pull-left" href="/asztrologia/2014-szeptember-oktober-nap-a-merlegben/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-002.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember-október | Nap a Mérlegben"></a>
                 <div class="media-body">
                     <h4 class="media-heading"><a href="../asztrologia/2014-szeptember-oktober-nap-a-merlegben/" alt="Asztrológiai időjárás-jelentés | 2014. szept. 22 - okt. 24.">2014. szept. 22 - okt. 24. | Nap a Mérlegben</a></h4>
                     <p>Napsütéses, meleg idő várható, kellemes, lágy fuvallatok kíséretében. Éjszakánként rengeteg csillag ragyog majd az égen.</p>
@@ -144,7 +144,7 @@
                 </div>
                 
                 <div class="media">
-                    <a class="pull-left" href="../asztrologia/2014-szeptember-mars-neptunusz-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-001.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember | Mars - Neptunusz quadrát"></a>
+                    <a class="pull-left" href="/asztrologia/2014-szeptember-mars-neptunusz-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-001.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember | Mars - Neptunusz quadrát"></a>
                 <div class="media-body">
                     <h4 class="media-heading"><a href="../asztrologia/2014-szeptember-mars-neptunusz-quadrat/" alt="Asztrológiai időjárás-jelentés | 2014. szeptember 22.">2014. szeptember 22. | Mars - Neptunusz quadrát</a></h4>
                     <p>Ködös idő várható. Helyenként előfordulhatnak nem várt, rövid életű viharok.</p>
@@ -159,15 +159,15 @@
                 <div class="alert alert-info" role="alert">Asztrológiai írások</div>
 
                 <div class="media">
-                    <a class="pull-left" href="../asztrologia/2012-2015-uranusz–pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-004.jpg" alt="Asztrológiai írások: 2012 - 2015. | Uránusz - Plútó quadrát"></a>
+                    <a class="pull-left" href="/asztrologia/2012-2015-uranusz–pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-004.jpg" alt="Asztrológiai írások: 2012 - 2015. | Uránusz - Plútó quadrát"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="../asztrologia/2012-2015-uranusz–pluto-quadrat/" alt="Asztrológiai írások: 2012 - 2015 | Uránusz - Plútó quadrát">2012 - 2015. | Uránusz - Plútó quadrát</a></h4>
+                    <h4 class="media-heading"><a href="/asztrologia/2012-2015-uranusz–pluto-quadrat/" alt="Asztrológiai írások: 2012 - 2015 | Uránusz - Plútó quadrát">2012 - 2015. | Uránusz - Plútó quadrát</a></h4>
                     <p>A Plútó és az Uránusz jelenleg derékszöget alkotnak egymással. Ez tehát az újjászületés időszaka.</p>
                 </div>
                 </div>
 
                 <div class="media">
-                    <a class="pull-left" href="../asztrologia/a-nap-a-rendezoi-utasitas/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-005.jpg" alt="Asztrológiai írások: A Nap - a rendezői utasítás"></a>
+                    <a class="pull-left" href="/asztrologia/a-nap-a-rendezoi-utasitas/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-005.jpg" alt="Asztrológiai írások: A Nap - a rendezői utasítás"></a>
                 <div class="media-body">
                     <h4 class="media-heading"><a href="../asztrologia/a-nap-a-rendezoi-utasitas/" alt="Asztrológiai írások: A Nap - a rendezői utasítás">A Nap - a rendezői utasítás</a></h4>
                     <p>Az ember csak akkor adja fel a saját tökéletességébe vetett hitét, ha beleesik egója csapdájába. Csak akkor hajlandó önmagába nézni, ha a külvilágban már nincs más megoldási lehetőség.</p>
@@ -175,9 +175,9 @@
                 </div>
 
                 <div class="media">
-                    <a class="pull-left" href="../asztrologia/2014-november-6-telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: 2014. november 6. - Telihold"></a>
+                    <a class="pull-left" href="/asztrologia/2014-november-6-telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: 2014. november 6. - Telihold"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="../asztrologia/2014-november-6-telihold/" alt="Asztrológiai írások: 2014. november 6. - Telihold">2014. november 6. - Telihold</a></h4>
+                    <h4 class="media-heading"><a href="/asztrologia/2014-november-6-telihold/" alt="Asztrológiai írások: 2014. november 6. - Telihold">2014. november 6. - Telihold</a></h4>
                     <p>Azt nevezzük teliholdnak, amikor a Nap és a Hold szemben állnak az égen. Azaz két teljesen eltérő energia folytat küzdelmet egymással a lelkünkben.</p>
                 </div>
                 </div>

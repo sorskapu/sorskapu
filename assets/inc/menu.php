@@ -19,7 +19,9 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Módszerek <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="/magunkrol/">Magunkról</a></li>
-                            <li><a href="/csaladfelallitas/">Családfelállítás</a></li>
+                            <li class="dropdown-header">Családfelállítás</li>
+                            <li><a href="/csaladfelallitas/">A családfelállításről</a></li>
+                            <li><a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/">Újabb gondolatok a témában</a></li>
                             <li><a href="/asztrologia/">Asztrológia</a></li>
                             <li class="disabled"><a href="#">Symbolon</a></li>
                             <li class="disabled"><a href="#">Párterápia</a></li>
@@ -28,7 +30,8 @@
                 </li>
 				<li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Melléklet<b class="caret"></b></a>
-                        <ul class="dropdown-menu"><li class="dropdown-header">Asztrológiai idõjárás-jelentés</li>
+                        <ul class="dropdown-menu">
+
                             <li><a href="/asztrologia/2014-oktober-nap-pluto-quadrat/">2014. október 4. | Nap - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/2014-szeptember-oktober-nap-a-merlegben/">2014. szept. 23 - okt. 22. | Nap a Mérlegben</a></li>
                             <li><a href="/asztrologia/2014-szeptember-mars-neptunusz-quadrat/">2014. szeptember 22. | Mars - Neptunusz quadrát</a></li>
