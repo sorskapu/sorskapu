@@ -88,7 +88,7 @@
 	
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 text-center">
 				
                 <!--A Vörös Oroszlán-->
                 <div class="col-sm-6 col-md-4">
@@ -114,7 +114,7 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpm6uw5xC46pTraNOv53634A" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">
+                        <div style="margin-top: -20px;" class="caption">
                             <h4>A Vörös Oroszlán (Első könyv)</h4>                            
                         </div><!-- /.caption -->
 
@@ -130,7 +130,7 @@
                         <iframe width="490" height="276" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpnVhQOvuWpOwEjgGVVsC6Y_" frameborder="0" allowfullscreen></iframe>
                         </div>
 
-                        <div class="caption">
+                        <div style="margin-top: -20px;" class="caption">
                             <h4>A Vörös Oroszlán (Második könyv)</h4>                            
                         </div><!-- /.caption -->
 
