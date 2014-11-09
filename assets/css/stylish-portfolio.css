@@ -487,8 +487,3 @@ height: 100%;
     -moz-border-radius:6px 0 6px 6px;
     border-radius:6px 0 6px 6px;
 }
-
-/* Custom - Menu - automatically drop on hover */
-ul.nav li.dropdown:hover > ul.dropdown-menu {
-    display: block;    
-}
