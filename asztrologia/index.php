@@ -84,8 +84,8 @@
 	</header>
 	<!--/Header-->
      
-	<!--Asztrológiai Időjárás-jelentés-->
-	<section id="tovabb" style="padding:50px 0;">
+	<!--Asztrológiai cikkek-->
+	<section>
 	
 	<div class="container">
         <div class="row">
@@ -158,7 +158,17 @@
     </div>
 	
 	</section>
-	<!--/Asztrológiai Időjárás-jelentés-->
+	<!--/Asztrológiai cikkek-->
+
+    <!-- FB Comments -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+                </div>
+            </div>                                                                                      
+        </div>
+    <!-- /FB Comments -->
 	
     <!--Footer-->
     <section id="kapcsolat" style="padding:50px 0;">

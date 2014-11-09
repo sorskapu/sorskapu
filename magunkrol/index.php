@@ -75,7 +75,7 @@
     <!--Header-->
     <header id="top" class="header_magunkrol">
         <div class="text-vertical-center">
-            <h3 style="margin-top:100px;">Magunkról</h3>
+            <h3 style="margin-top:100px; color:white;">Magunkról</h3>
 			<br />
             <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
 			<div class="fb-like" data-href="http://sorskapu.hu/magunkrol/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
@@ -128,6 +128,16 @@
 		
     </section>
 	<!--/Magunkról-->
+
+    <!-- FB Comments -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="fb-comments" data-href="http://www.sorskapu.hu/magunkrol/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+                </div>
+            </div>                                                                                      
+        </div>
+    <!-- /FB Comments -->
      
     <!--Footer-->
 	<section id="kapcsolat" style="padding:50px 0;">

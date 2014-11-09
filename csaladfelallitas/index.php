@@ -195,6 +195,16 @@
 		
     </section>
 	<!--/Családfelállítás-->
+
+    <!-- FB Comments -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="fb-comments" data-href="http://www.sorskapu.hu/csaladfelallitas/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+                </div>
+            </div>                                                                                      
+        </div>
+    <!-- /FB Comments -->
      
     <!--Footer-->
 	<section id="kapcsolat" style="padding:50px 0;">
