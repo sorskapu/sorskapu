@@ -77,7 +77,7 @@
         <div class="text-vertical-center">
             <a href="#tovabb" style="margin-top:100px;" class="btn btn-dark btn-lg guru">A családállításról</a><br /><br />
             <a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/" class="btn btn-dark btn-lg">Újabb gondolatok a témában</a><br /><br />
-            <div class="fb-like" data-href="http://sorskapu.hu/csaladfelallitas/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            <div class="fb-like" data-href="http://sorskapu.hu/csaladfelallitas/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br /><br />
 		    <a href="http://sorskapu.hu/#tovabb" class="btn btn-dark btn-lg">Jelentkezés</a>
         </div>
 	</header>
