@@ -37,8 +37,8 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Asztrológia <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header" style="color:#00a2ff;">Asztrológiai időjárás-jelentés</li>
-                            <li><a href="/asztrologia/2014-oktober-nap-pluto-quadrat/">2014. október 4. | Nap - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/2014-november-11-mars-pluto-egyuttallas/">2014. november 11. | Mars - Plútó együttállás</a></li>
+                            <li><a href="/asztrologia/2014-oktober-nap-pluto-quadrat/">2014. október 4. | Nap - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/2014-szeptember-oktober-nap-a-merlegben/">2014. szept. 23 - okt. 22. | Nap a Mérlegben</a></li>
                             <li><a href="/asztrologia/2014-szeptember-mars-neptunusz-quadrat/">2014. szeptember 22. | Mars - Neptunusz quadrát</a></li>
                             <li class="divider"></li>
