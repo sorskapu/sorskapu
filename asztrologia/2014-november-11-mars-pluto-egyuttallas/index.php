@@ -6,23 +6,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Sötétebbek lesznek most a nappalok és hosszabbak az éjszakák. Ólmos nehézség üli meg a levegőt. Hideg és dermedt idő várható.">
-	<meta name="keywords" content="Nap, Plútó, quadrát, asztrológiai előrejelzés, 2014 október, erő, csábítás, mágia, depresszió, párkapcsolat, férfi, nő, spiritualitás, lélek, Kerekes Andrea">
+    <meta name="description" content="Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot.">
+	<meta name="keywords" content="Mars, Plútó, együttállás, konjunkció, asztrológiai előrejelzés, 2014 november, erő, depresszió, szexualitás, pornográfia, erőszak, szadizmus, kegytlenség, párkapcsolat, férfi, nő, spiritualitás, lélek, Kerekes Andrea">
     <link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
 	
 	<!-- Facebook -->
 	<meta property="fb:app_id" content="1459644830989485" />
     <meta property="fb:admins" content="100000956925477"/>
-    <meta property="og:url" content="http://www.sorskapu.hu/asztrologia/2014-oktober-nap-pluto-quadrat/" />
+    <meta property="og:url" content="http://www.sorskapu.hu/asztrologia/2014-november-11-mars-pluto-egyuttallas/" />
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
-	<meta property="og:title" content="Asztrológiai időjárás-jelentés | 2014. október 4." />
-    <meta property="og:description" content="Nap - Plútó quadrát | Sötétebbek lesznek most a nappalok és hosszabbak az éjszakák. Ólmos nehézség üli meg a levegőt. Hideg és dermedt idő várható." />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_asztrologia-003.jpg" />
+	<meta property="og:title" content="Asztrológiai időjárás-jelentés | 2014. november 11. (hatása nov 7-14.)" />
+    <meta property="og:description" content="Mars - Plútó együttállás | Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot." />
+    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_asztrologia-007.jpg" />
     <!-- Facebook Like End -->
 
-    <title>2014. október 4. | Nap - Plútó quadrát</title>
+    <title>2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -73,18 +73,18 @@
 	<!--/Menu-->
 
     <!--Header-->
-    <header id="top" class="header_asztrologia-003">
+    <header id="top" class="header_asztrologia-007">
         <div class="text-vertical-center">
-            <h4 class="btn btn-dark btn-lg" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;"><a href="../#tovabb">Asztrológiai időjárás-jelentés</a> / 2014. október 4. | Nap - Plútó quadrát</h4>
+            <h4 class="btn btn-dark btn-lg" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;"><a href="../#tovabb">Asztrológiai időjárás-jelentés</a> / 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</h4>
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2014-oktober-nap-pluto-quadrat/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2014-november-11-mars-pluto-egyuttallas/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
 	<!--/Header-->
 
-    <!--Asztrológia / 2014. október 4. | Nap - Plútó quadrát-->
+    <!--Asztrológia / 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás-->
     <section id="tovabb" style="padding:50px 0;">
 	
         <div class="container">
@@ -94,37 +94,50 @@
 				    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/qDv6s2eCbJw?rel=0" frameborder="0" allowfullscreen></iframe></div>
 				
 				    <div class="panel panel-default">
-					    <div class="panel-heading" style="text-align:center;"><h2>2014. október 4. | Nap - Plútó quadrát</h2></div>
+					    <div class="panel-heading" style="text-align:center;"><h2>2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</h2></div>
 					    <div class="panel-body">
 						<br />
-						<p class="lead" style="text-align:justify;">Sötétebbek lesznek most a nappalok és hosszabbak az éjszakák. Ólmos nehézség üli meg a levegőt. Hideg és dermedt idő várható.</p>
-						<p class="lead" style="text-align:justify;">Október 4-én a Nap eléri a Bakban álló Plútót, 90°- os szöget zárva be vele. Ez a találkozó már előtte két-három nappal érezteti hatását. Szombaton csúcsosodik, majd szép lassan lecseng, magával víve összes tapasztalatát, s ezek tanulságait.</p>
-						<p class="lead" style="text-align:justify;">Mai adásunkban a Mérlegben járó Nap és a Bakban araszoló Plútó beszélgetését hallhatjátok. Először Plútó szólal majd meg.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Már öt éve ezen a kietlen tájon vándorolok, s most eljött az ideje annak, hogy felfedjem előtted, mi miért történik, amikor összetalálkozol velem ezen az úton.</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Én is úgy érzem, hogy valaminek eljött az ideje. Egy újabb felismerés közeleg. De előre félek, mert tudom, hogy ezeket a felismeréseket mindig valami nehézség előzi meg.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Nem kell félned. Ha tudod, hogy bármi is történjék, kezedben van a választás joga, akkor megérted, hogy az életedet tulajdonképpen mégiscsak te irányítod. Hiszen minden pillanat alkalmas arra, hogy olyan döntést hozz, ami a számodra legmegfelelőbb irányba terel.</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Nekem ezzel sosem volt problémám. Mindig is tudtam, mit akarok. S ha őszinte akarok lenni, akkor elárulom, hogy elsősorban hatalmat. Hatalmat minden és mindenki fölött. Hálám jeléül a világ minden kincsével elhalmozlak titeket, és gondoskodom rólatok.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Felettem nem tudsz hatalmat gyakorolni. Nem látod, hogy sokkal nagyobb vagyok nálad?</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Te vagy a legkisebb, ezért elég furcsa, hogy ilyeneket mondasz!</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Kicsi vagyok, messze vagyok, mégis óriási hatalmat gyakorlok fölötted. És tudod, hogyan csinálom?</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Elképzelésem sincs! Kérlek, áruld el nekem, fedd fel a titkodat!</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Fején találtad a szöget, drága barátom! Én ugyanis éppen elképzeléseket gyártok. Belesuttogok valamit a füledbe, s mivel ezt hosszasan és kitartóan teszem, mágiát gyakorolok fölötted. Nézd csak, így: a pozitív gondolkodás nagyon fontos dolog... minden, ami sötét, üldözésre ítéltetett!</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Nagyon erős hatást gyakorolsz rám! Hirtelen depresszióba estem. Már legalább öt éve tart ez az áldatlan állapot. Újra és újra magába szippant ez az érzelmek nélküli közöny... ez a teljes kilátástalanság... ez a minden mindegy már... csak kibírom valahogy, egyszer túl leszek ezen az egészen... és végre meghalok.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Ha már itt vagyok, elmagyarázom neked, hogy a depresszió kialakulásának az oka mindig egyetlen egy dologra vezethető vissza, mégpedig arra, hogy van valami a múltadban, amire nem vagy hajlandó visszaemlékezni. Egyszerűen nem, és kész! Mert ha felidéznéd magadban, rögtön rosszul lennél. Inkább a depresszió sötét barlangját választod. Oda bújsz súlyos emlékeid elől.</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Mit tehetek annak érdekében, hogy a továbbiakban elkerüljem ezt a borzasztó állapotot?</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Az előbb már felhívtam a figyelmedet rá. Gondolkodj el azon, hogy mik azok a dolgok a múltadban, melyekre nem szívesen emlékszel vissza! Ha ezt önként nem tudod megtenni, olyan helyzetbe hozlak, hogy kénytelen legyél rá. Kívülről ér majd a meglepetés. Valaki vagy valami emlékeztetni fog rá. És te kénytelen leszel szembesülni egykori önmagaddal, hogy végre leomolhassanak rólad azok a kövek, melyek újra és újra a mélybe taszítanak.</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Köszönöm!</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Elsősorban magadnak köszönd! Azt is tudnod kell, hogy én képtelen vagyok a cselekvésre. Ezért valójában soha nem teszek semmit. Te magad vagy az, aki cselekszel, mert én cselekvésre ösztönözlek téged. Mindezt jó ötletekkel, sokat ígérő elképzelésekkel, különféle eszményekkel érem el nálad. Fanatikussá teszlek, anélkül, hogy észrevennéd. Összekötlek, összeláncollak az elképzeléseiddel, hogy a végén már csakis annak élhess.</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Érdekes, hogy egyáltalán nem vagy erőszakos! Pedig sokan azt hiszik rólad, hogy az vagy.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Nem, az én eszközöm nem a harc. Én a csábító figuráját öltöttem magamra. S bár láthatatlan vagyok, mágikus vonzerőm ellen nincs hatalmad. Célom, hogy töretlen erőd törékennyé váljon. Mert amíg ez nem következik be, esélyed sincs arra, hogy meglásd a valóságot.</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Tehát mit sem ér az akaratosságom. Valódi akaratra van szükségem! Nem maradhatok önző.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Legyen meg Isten akarata!</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />S majd ha én tudomásul vettem, hogy mi az, meghozom a következő, megfelelő lépést. Nem küzdök tovább régi önmagamért!</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />S már el is jutottunk végső célomig: teljesen és gyökeresen átalakultál!</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Szeretnék kérdezni valamit. Nyilván látod, hogy én most nem vagyok egyedül, kapcsolatok kusza hálója vesz körül.</p>
-						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Valóban, számodra most az a legfontosabb, hogy ezeket a kusza szálakat kibogozd. Nem tudom, konkrétan mi fog történni veled, de hatalmas, mélyreható változásokra számíts! Aminek le kell rombolódnia, az lerombolódik. De ne aggódj, ennek következtében megtanulod, hogy az életben vannak bizonyos törvények, melyeket be kell tartanod, és hogy vállalnod kell magadért a felelősséget. Kötelességeidet teljesítened kell, elképzeléseiden változtatnod kell. Főleg a párkapcsolatodat illetően. Minél határozottabb  elképzeléseid vannak arról, hogy milyennek kellene lennie a párodnak, milyennek kellene lennie a kapcsolatotoknak, annál biztosabb lehetsz abban, hogy megnehezíted saját dolgodat. Alakíts ki egy új képet! Egy olyat, ami neki is tetszik, amivel ő is egyetért, s ahhoz tartsd magad!</p>
-						<p class="lead" style="text-align:justify;"><b>Nap:</b><br />Így fogok cselekedni, mert tudom, hogy akkor egy új életforma vár rám! Egy olyan élet, amely látszólag a semmiből született. Az előbb még sötét volt... és fogalmam sem volt róla, hogyan tovább. Most azonban ismét napfény melengeti át a szívemet!</p>
-						<p><span style="color: grey;">Írta: Kerekes Andrea</span></p>
+                        <p class="lead" style="text-align:justify;"></p>
+                        <p class="lead" style="text-align:justify;"></p>
+						<p class="lead" style="text-align:justify;">Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot. Ez az időjárás épp megfelelő arra, hogy felfedezd belső Napodat, s megtapasztald, milyen fantasztikus érzés, amikor nem fentől lefelé, hanem belülről kifelé sugárzik.</p>
+						<p class="lead" style="text-align:justify;"><b>Mars:</b><br />November 7-e és 14-e között a Mars szoros kapcsolatba kerül a Plútóval, a Bak jelében. Pontos együttállásuk 11-én következik be, tehát hatása ekkor a legerősebb, de egészen péntekig érzékelhető.</p>
+						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Mai adásunkban a Mars szólal meg először.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Szükségem van az energiádra. Nincs semmi kezdeményező erőm, és így nem tudok új világokat meghódítani. Szomorú vagyok, adj egy kis lendületet!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Valóban ezt akarod? Szívesen megteszem. Alig várom, hogy függésbe hozzalak, kösd magad nyugodtan hozzám!</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Ha így van, akkor se bánom! Tölts fel élettel, részesülni akarok hatalmas energiádból! Nincs más választásom. Ha nem segítesz, tovább vegetálok, se nem élek, se nem halok, s ennél nincs borzalmasabb.</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Valóban azt hiszed? Rendben, akkor megerőszakollak. De aztán ne csodálkozz, ha mostantól hatalmat gyakorlok fölötted! És légy vele tisztában, hogy ezzel a döntéseddel áldozattá tetted magad! De ugyanakkor a tettes is te vagy, hiszen te tetted ezt saját magaddal.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Köszönöm, hogy rendelkezésemre bocsátasz egy kis erőt. Már érzem is. Lassan felpezsdül ereimben a vér.</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Látom, hiába beszélek hozzád. Egy szavamra se figyelsz. Az erő mágikus hatalmába kerített. Várok egy kicsit. Várok, amíg jóllaksz. Megvárom, mire tudod majd hasznosítani az energiát, amit kiszívtál belőlem. Tartok tőle, hogy magad is hasonló áldozatokra lelsz majd. Olyanokra, mint amilyen most te vagy. És akkor kiélheted majd tettes mivoltodat, de csak azért, mert a másik még saját áldozati mivoltának rabja. Ha odafigyeltél volna arra, amit az előbb mondtam, már most is látnád, hogy tettes vagy, és akkor nem lenne szükség erre az egészre.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Ne haragudj, elkalandoztam! Mit mondtál? Teljesen fel vagyok pörögve, óriási erőt érzek magamban! Megmondom őszintén, hogy szexuális kényszerképzetek gyötörnek. Vonzanak a szexuális képek, melyek egészen erőszakosak. Én magam vagyok erőszakos bennük, nem is értem, hiszen én tulajdonképpen nagyon is tartózkodó vagyok, és rettenetesen félek az erőszaktól. Nem tudom, mi ez, de képtelen vagyok ellenállni. Látod, milyen erősen vonz ez a kép? Ne haragudj, mennem kell, oda kell mennem, majd jövök!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Majd jössz! Persze, tudom, hogy majd jössz. Várlak.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Itt vagyok, bár alig tudtam lazítani a kötelékeken, hogy végre visszajöhessek hozzád. Kérlek, segíts!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Látom, hogy ezer szállal tartanak fogva, mégis újra sikerült megközelítened engem. Te tőlem függsz, ők pedig tőled. Ugye, te is látod már?</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Igen, látom, ezért jöttem és ezért kérlek, hogy segíts. Meg akarok szabadulni tőlük! De tőled is!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Hogy-hogy? Már nincs szükséged az erőmre?</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Ne kínozz! Kérlek!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Én nem csinálok semmit, te kínzod saját magadat!</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Jól van, értelek! Nem jó úton járok. De fogalmam sincs, merre a helyes irány.</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Egyetlen megoldás létezik számodra.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Mondd gyorsan, mi az, és én megteszem!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Lassan a testtel, ez nem ilyen egyszerű!</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Mindenre képes vagyok, csak kiszabadulhassak végre kínzó kötelékeimből, melyek fogva tartanak! Mondd, mit kell tennem, hogy ez végre bekövetkezhessen!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Meg kell halnod!</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Na ne! Meghalnom?! De hiszen én élni akarok!</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />E kötelékek között nincs, és nem is lesz élet soha. Tudnod kell, hogy bár rettegsz a haláltól, enélkül nincs gyógyulás. De még mielőtt félreértenél, elárulom, hogy ez a halál nem jelenti teljes lényed halálát. Csak a benned élő vámpírnak kell meghalnia. A továbbiakban nem koldulhatsz több erőt a létezésedhez. Használd fel azt, amit eddig összegyűjtöttél! Ez az egyetlen módja annak, hogy kiszabadulj függő helyzetedből. Nem hatolhatsz be többé mások aurájába, hogy ott élősködj rajtuk! Mert ha túl mélyen hatolsz be mások lelkébe, máris függőséget alakítasz ki. Kivéve, ha mindez tudatosul benned, azaz tisztán látod, mit teszel. Tehát kivéve, ha felismered saját vámpír mivoltodat, mellyel energiát rabolsz. Ne küzdj tovább a benned élő vérszívó halála ellen! Tudom, hogy rettegsz attól, mi lesz veled, ha ez a részed elpusztul, s ezért minden eszközzel megpróbálod elkerülni halálát. Ám ha továbbra is életben tartod saját kis vámpírodat, sosem szabadulsz meg a tettes-áldozat szereptől. Vég nélkül cserélgetik majd egymást, akár egy nap leforgása alatt többször is: hol tettes leszel, hol áldozat. És ez kimerítő. Pontosan olyan kimerítő, mint amilyen kimerült állapotban visszaérkeztél hozzám.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />És mi lesz, ha megteszem? Ha megölöm a vámpírt? Utána mi lesz velem?</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Nem fogja többé elrabolni az energiádat. Nem érzed majd magad élőhalottnak egy depressziós világban. Tulajdonképpen már megtörtént.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Micsoda?</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Amint a tudatosság fényébe került, azonnal meghalt.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />A vámpír?</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Igen. S halálával egy új kezdet indult.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Milyen új kezdet? Mi fog történni velem? Mire figyeljek?</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Először elmondom, mit hagysz magad mögött. Nem leszel többé kíméletlen senkihez. Nem leszel szadista csak azért, hogy véghez vihesd az akaratodat. Eltűnik belőled a bosszúvágy és az erőszakosság. Nem akarsz többé megalázni senkit. Sem lelkileg, sem szexuálisan. Hiába hitted magad ártatlannak és tartózkodónak, most felismered, hogy amíg annak képzeled magad, nem vagy az. Hiányzó életerőd tulajdonképpen egy tudattalanul jelen lévő szadizmusra utal. Ártatlan gyengédséged álarca mögött egy haragos, kegyetlen, hideg lény lakozik, aki tele van  megsemmisítő energiákkal. Aki pusztítani akar úgy, hogy maga sem tud róla.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Valóban ezt éltem meg, amíg távol voltam. Képzeld, még verekedtem is! Megaláztam embereket, bántottam és kihasználtam őket. Nem tudtam uralkodni hatalomvágyam fölött. Sajnálom.</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Sose sajnáld, minden értünk van! Tanultál belőle, s ez a lényeg.</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Kérlek, mondd el azt is, mit hozhatok ki egy ilyen helyzetből! Hogyan tudom a magam, s környezetem javára fordítani mindazt, amit átéltem?</p>
+                        <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Meg kell tanulnod felelősséget vállalni saját magadért. El kell fogadnod, hogy az embernek kötelességei is vannak, nemcsak anyagi, hanem lelki szempontból is. Gondolkodnod kell azon, hogy mennyire vagy rabja a sorsodnak! Képes vagy-e változtatni a felfogásodon, már ami a sorsodat illeti? Valóban teljesen ki vagy szolgáltatva neki? Az erőd már megvan, összegyűjtötted. Most már csak át kell alakítanod rombolóból építő erővé. Gyökeresen át kell alakítanod a dolgokat, ha azt akarod, hogy kegyetlenséged és kíméletlenséged soha többé ne kerüljön elő. Ellenállhatatlan erődet fényes és világos eszmék szolgálatára használd! Ha észreveszed, hogy hatalmat gyakorolsz valaki fölött, igyekezz kiszabadítani őt függő helyzete alól! Ne hozz létre újabb függésen alapuló kötelékeket, mert akkor előbb-utóbb újra áldozattá válsz, majd újra tettessé! Légy bátor! Megszállottságodat arra használd, hogy kibontakoztathasd hatalmas, láthatatlan erőidet! Légy következetes, megbízható, türelmes! Ne másokat fegyelmezz, hanem légy te magad fegyelmezett! Kitartóan és koncentráltan haladj kitűzött új szellemi céljaid felé! Szexuális hatalmi harcaidat cseréld fel mély, szenvedélyes, lelki síkon megélt szexualitásra! Változtass merevségeden, ne legyél gátlásos, sőt, hajlíthatatlanul küzdj új céljaid eléréséért!</p>
+                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Úgy lesz! Döntésemet jól megfontoltam. Immár visszavonhatatlan. Véghez viszem új céljaimat, dacolva minden ellenállással.</p>
+                        <p><span style="color: grey;">Írta: Kerekes Andrea</span></p>
 						</div>
                     </div>	
 																								    
@@ -135,13 +148,13 @@
         <!-- /.container -->
 		
     </section>
-	<!--/Asztrológia / 2014. október 4. | Nap - Plútó quadrát-->
+	<!--/Asztrológia / 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás-->
 	
 	    <!-- FB Comments -->
 	    <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-	                <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/2014-oktober-nap-pluto-quadrat/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+	                <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/2014-november-11-mars-pluto-egyuttallas/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
 	            </div>
             </div>																					    
 	    </div>
@@ -154,7 +167,7 @@
     <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2014-oktober-nap-pluto-quadrat/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>    
+                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2014-november-11-mars-pluto-egyuttallas/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>    
                 <br /><br />
 
                 <!--kontakt-->
