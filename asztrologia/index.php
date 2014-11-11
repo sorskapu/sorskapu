@@ -94,14 +94,9 @@
                 <!--Idõjárás-jelentés-->
                 <section id="tovabb" style="padding:50px 0;">
 
-                <div class="panel panel-primary">
-                    <div class="panel-body">
-                    Asztrológiai idõjárás-jelentés
-                    </div>
-                    <div class="panel-footer">Asztrológiai időjárás-jelentés című sorozatunkban lelkünk tájain barangolunk. S annak ellenére, hogy a múzsa minden esetben egy éppen aktuális bolygóállás, írásaink mondanivalója örökérvényű. Ezért ha ez a mostani adás tetszeni fog, nyugodtan olvasd el vagy hallgasd meg az előzőeket is, és ne törődj a dátumokkal! :)</div>
-                </div>
-
-                			    
+                <div class="alert alert-danger" role="alert">Asztrológiai idõjárás-jelentés</div>
+                <p>Asztrológiai időjárás-jelentés című sorozatunkban lelkünk tájain barangolunk. S annak ellenére, hogy a múzsa minden esetben egy éppen aktuális bolygóállás, írásaink mondanivalója örökérvényű. Ezért ha ez a mostani adás tetszeni fog, nyugodtan olvasd el vagy hallgasd meg az előzőeket is, és ne törődj a dátumokkal!</p>
+			    
 				<div class="media">
                     <a class="pull-left" href="2014-oktober-nap-pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-003.jpg" alt="Asztrológiai időjárásjelentés: 2014. október 4. | Nap - Plútó quadrát"></a>
                 <div class="media-body">
