@@ -102,9 +102,17 @@
                 </div>
 
                 <div class="media">
+                    <a class="pull-left" href="2014-november-11-mars-pluto-egyuttallas/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-007.jpg" alt="Asztrológiai időjárásjelentés: 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás"></a>
+                <div class="media-body">
+                    <h4 class="media-heading"><a href="2014-november-11-mars-pluto-egyuttallas/" alt="Asztrológiai időjárás-jelentés: 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás">2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</a></h4>
+                    <p>Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot.</p>
+                </div>
+                </div>
+
+                <div class="media">
                     <a class="pull-left" href="2014-oktober-nap-pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-003.jpg" alt="Asztrológiai időjárásjelentés: 2014. október 4. | Nap - Plútó quadrát"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-oktober-nap-pluto-quadrat/" alt="Asztrológiai időjárás-jelentés | 2014. október 4.">2014. október 4. | Nap - Plútó quadrát</a></h4>
+                    <h4 class="media-heading"><a href="2014-oktober-nap-pluto-quadrat/" alt="Asztrológiai időjárás-jelentés: 2014. október 4. | Nap - Plútó quadrát">2014. október 4. | Nap - Plútó quadrát</a></h4>
                     <p>Sötétebbek lesznek most a nappalok és hosszabbak az éjszakák. Ólmos nehézség üli meg a levegőt. Hideg és dermedt idő várható.</p>
                 </div>
                 </div>
@@ -112,7 +120,7 @@
 				<div class="media">
                     <a class="pull-left" href="2014-szeptember-oktober-nap-a-merlegben/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-002.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember-október | Nap a Mérlegben"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-szeptember-oktober-nap-a-merlegben/" alt="Asztrológiai időjárás-jelentés | 2014. szept. 22 - okt. 24.">2014. szept. 22 - okt. 24. | Nap a Mérlegben</a></h4>
+                    <h4 class="media-heading"><a href="2014-szeptember-oktober-nap-a-merlegben/" alt="Asztrológiai időjárás-jelentés: 2014. szept. 22 - okt. 24. | Nap a Mérlegben">2014. szept. 22 - okt. 24. | Nap a Mérlegben</a></h4>
                     <p>Napsütéses, meleg idő várható, kellemes, lágy fuvallatok kíséretében. Éjszakánként rengeteg csillag ragyog majd az égen.</p>
                 </div>
                 </div>
@@ -120,7 +128,7 @@
 				<div class="media">
                     <a class="pull-left" href="2014-szeptember-mars-neptunusz-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-001.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember | Mars - Neptunusz quadrát"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-szeptember-mars-neptunusz-quadrat/" alt="Asztrológiai időjárás-jelentés | 2014. szeptember 22.">2014. szeptember 22. | Mars - Neptunusz quadrát</a></h4>
+                    <h4 class="media-heading"><a href="2014-szeptember-mars-neptunusz-quadrat/" alt="Asztrológiai időjárás-jelentés: 2014. szeptember 22. | Mars - Neptunusz quadrát">2014. szeptember 22. | Mars - Neptunusz quadrát</a></h4>
                     <p>Ködös idő várható. Helyenként előfordulhatnak nem várt, rövid életű viharok.</p>
                 </div>
                 </div>
