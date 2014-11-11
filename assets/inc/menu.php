@@ -30,8 +30,15 @@
                             <li class="disabled"><a href="#">Egyéni terápia</a></li>
                         </ul>
                 </li>
-				<li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Melléklet<b class="caret"></b></a>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Családfelállítás <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/csaladfelallitas/">A családfelállításról</a></li>
+                            <li><a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/">Újabb gondolatok a témában</a></li>
+                        </ul>
+                </li>
+                 <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Asztrológia <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header" style="color:#00a2ff;">Asztrológiai időjárás-jelentés</li>
                             <li><a href="/asztrologia/2014-oktober-nap-pluto-quadrat/">2014. október 4. | Nap - Plútó quadrát</a></li>
@@ -42,8 +49,11 @@
                             <li><a href="/asztrologia/2014-november-6-telihold/">2014. november 6. - Telihold</a></li>
                             <li><a href="/asztrologia/2012-2015-uranusz–pluto-quadrat/">2012 - 2015. | Uránusz - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/a-nap-a-rendezoi-utasitas/">A Nap - a rendezői utasítás</a></li>                               
-                            <li class="divider"></li>
-                            <li class="dropdown-header" style="color:#00a2ff;">Egyéb írások</li>
+                        </ul>
+                </li>
+				<li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Melléklet<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
                             <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
 						    <li><a href="/melleklet/kapcsolatok/">Kapcsolatok</a></li>
 							<li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk</a></li>
