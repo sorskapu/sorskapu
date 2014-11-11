@@ -97,10 +97,10 @@
 					    <div class="panel-heading" style="text-align:center;"><h2>2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</h2></div>
 					    <div class="panel-body">
 						<br />
-                        <p class="lead" style="text-align:justify;">Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot. Ez az időjárás épp megfelelő arra, hogy felfedezd belső Napodat, s megtapasztald, milyen fantasztikus érzés, amikor nem fentől lefelé, hanem belülről kifelé sugárzik.</p>
-						<p class="lead" style="text-align:justify;">November 7-e és 14-e között a Mars szoros kapcsolatba kerül a Plútóval, a Bak jelében. Pontos együttállásuk 11-én következik be, tehát hatása ekkor a legerősebb, de egészen péntekig érzékelhető.</p>
-                        <p class="lead" style="text-align:justify;">Mai adásunkban a Mars szólal meg először.</p>
-                        <p class="lead" style="text-align:justify;"><b>Mars:</b><br />November 7-e és 14-e között a Mars szoros kapcsolatba kerül a Plútóval, a Bak jelében. Pontos együttállásuk 11-én következik be, tehát hatása ekkor a legerősebb, de egészen péntekig érzékelhető.</p>
+                        <p class="lead" style="text-align:justify;"></p>
+                        <p class="lead" style="text-align:justify;"></p>
+						<p class="lead" style="text-align:justify;">Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot. Ez az időjárás épp megfelelő arra, hogy felfedezd belső Napodat, s megtapasztald, milyen fantasztikus érzés, amikor nem fentől lefelé, hanem belülről kifelé sugárzik.</p>
+						<p class="lead" style="text-align:justify;"><b>Mars:</b><br />November 7-e és 14-e között a Mars szoros kapcsolatba kerül a Plútóval, a Bak jelében. Pontos együttállásuk 11-én következik be, tehát hatása ekkor a legerősebb, de egészen péntekig érzékelhető.</p>
 						<p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Mai adásunkban a Mars szólal meg először.</p>
                         <p class="lead" style="text-align:justify;"><b>Mars:</b><br />Szükségem van az energiádra. Nincs semmi kezdeményező erőm, és így nem tudok új világokat meghódítani. Szomorú vagyok, adj egy kis lendületet!</p>
                         <p class="lead" style="text-align:justify;"><b>Plútó:</b><br />Valóban ezt akarod? Szívesen megteszem. Alig várom, hogy függésbe hozzalak, kösd magad nyugodtan hozzám!</p>
