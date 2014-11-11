@@ -94,7 +94,7 @@
                 <!--Idõjárás-jelentés-->
                 <section id="tovabb" style="padding:50px 0;">
 
-                <div class="panel panel-danger">
+                <div class="panel panel-primary">
                     <div class="panel-body">
                     Asztrológiai idõjárás-jelentés
                     </div>
