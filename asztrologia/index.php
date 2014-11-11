@@ -99,6 +99,7 @@
                 <div class="panel-body">
                 Asztrológiai időjárás-jelentés című sorozatunkban lelkünk tájain barangolunk. S annak ellenére, hogy a múzsa minden esetben egy éppen aktuális bolygóállás, írásaink mondanivalója örökérvényű. Ezért ha ez a mostani adás tetszeni fog, nyugodtan olvasd el vagy hallgasd meg az előzőeket is, és ne törődj a dátumokkal!
                 </div>
+                </div>
 
                 <div class="media">
                     <a class="pull-left" href="2014-oktober-nap-pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-003.jpg" alt="Asztrológiai időjárásjelentés: 2014. október 4. | Nap - Plútó quadrát"></a>
