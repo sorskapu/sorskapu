@@ -91,7 +91,7 @@
             <div class="row">
                 <div class="col-lg-12">
 				
-				    <!--<div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/qDv6s2eCbJw?rel=0" frameborder="0" allowfullscreen></iframe></div>-->
+				    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/By3wjwUL7wM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 				
 				    <div class="panel panel-default">
 					    <div class="panel-heading" style="text-align:center;"><h2>2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</h2></div>
