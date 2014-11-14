@@ -91,7 +91,7 @@
                 <div class="col-lg-12 text-center">
 				
                 <!--A Vörös Oroszlán-->
-                <div class=".col-md-6">
+                <div class="col-md-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
@@ -107,7 +107,7 @@
                 <!--/A Vörös Oroszlán-->
 
                 <!--Első könyv-->
-                <div class=".col-md-6">
+                <div class="col-md-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
@@ -123,7 +123,7 @@
                 <!--/Első könyv-->
 
                 <!--Második könyv-->
-                <div class=".col-md-6">
+                <div class="col-md-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
@@ -139,7 +139,7 @@
                 <!--/Második könyv-->
 
                 <!--Harmadik könyv-->
-                <div class=".col-md-6">
+                <div class="col-md-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
