@@ -91,11 +91,11 @@
                 <div class="col-lg-12 text-center">
 				
                 <!--A Vörös Oroszlán-->
-                <div class="col-sm-6 col-md-4">
+                <div class=".col-xs-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
-                        <iframe width="490" height="276" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpkmeJDCJ0HHT0TehWX7C_Iu" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="510" height="287" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpkmeJDCJ0HHT0TehWX7C_Iu" frameborder="0" allowfullscreen></iframe>
                         </div>
 
                         <div style="margin-top: -20px;" class="caption">
@@ -107,11 +107,11 @@
                 <!--/A Vörös Oroszlán-->
 
                 <!--Első könyv-->
-                <div class="col-sm-6 col-md-4">
+                <div class=".col-xs-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
-                        <iframe width="490" height="276" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpm6uw5xC46pTraNOv53634A" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="510" height="287" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpm6uw5xC46pTraNOv53634A" frameborder="0" allowfullscreen></iframe>
                         </div>
 
                         <div style="margin-top: -20px;" class="caption">
@@ -123,11 +123,11 @@
                 <!--/Első könyv-->
 
                 <!--Második könyv-->
-                <div class="col-sm-6 col-md-4">
+                <div class=".col-xs-6">
                     <div class="thumbnail">
                                                                       
                         <div class="responsive-video">
-                        <iframe width="490" height="276" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpnVhQOvuWpOwEjgGVVsC6Y_" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="510" height="287" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpnVhQOvuWpOwEjgGVVsC6Y_" frameborder="0" allowfullscreen></iframe>
                         </div>
 
                         <div style="margin-top: -20px;" class="caption">
@@ -137,6 +137,22 @@
                     </div><!-- /thumbnail -->
                 </div><!-- /col-sm-6 col-md-4 -->
                 <!--/Második könyv-->
+
+                <!--Harmadik könyv-->
+                <div class=".col-xs-6">
+                    <div class="thumbnail">
+                                                                      
+                        <div class="responsive-video">
+                        <iframe width="510" height="287" src="//www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpkBWF9VPO6nKS_jJ_ZXYlwJ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                        <div style="margin-top: -20px;" class="caption">
+                            <h4>A Vörös Oroszlán (Harmadik könyv)</h4>                            
+                        </div><!-- /.caption -->
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-sm-6 col-md-4 -->
+                <!--/Harmadik könyv-->
                
             </div><!-- /row -->
         </div><!-- /container -->
