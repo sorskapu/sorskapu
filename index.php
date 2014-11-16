@@ -102,18 +102,39 @@
         </tr>
     </thead>
     <tbody>
-        <tr class="success">
-            <td>2014. november 15. <br />szombat<br /><a href="http://goo.gl/forms/Z9cclV67TT" class="guru">Jelentkezés</a></td>
-			<td>09:00 - 19:00</td>
-			<td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
-            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />A hotelben egész nap nyitva tartó büfé üzemel, <br />ahol könnyű snack ételeket és finom édességeket lehet kapni.<br /><br />Vidékiek számára a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
-            <td><b>Saját állítással:</b> <br />12.700 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Aki először jön hozzám a csoportba, és nem kér saját állítást, <br />annak a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />2.540 Ft</td>
-		</tr>
         <tr class="danger">
             <td>2014. december 6. <br />szombat<br /><a href="http://goo.gl/forms/Z9cclV67TT" class="guru">Jelentkezés</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
-            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />A hotelben egész nap nyitva tartó büfé üzemel, <br />ahol könnyű snack ételeket és finom édességeket lehet kapni.<br /><br />Vidékiek számára a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
+            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />Akik előre jelzik étkezési szándékukat, azok számára a hotel <br /> hidegtálas svédasztalt biztosít, 1.000 Ft/fő áron.<br /><br />Szükség esetén a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
+            <td><b>Saját állítással:</b> <br />12.700 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Aki először jön hozzám a csoportba, és nem kér saját állítást, <br />annak a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />2.540 Ft</td>
+        </tr>
+        <tr class="success">
+            <td>2014. január 10. <br />szombat<br /><a href="http://goo.gl/forms/Z9cclV67TT" class="guru">Jelentkezés</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />Akik előre jelzik étkezési szándékukat, azok számára a hotel <br /> hidegtálas svédasztalt biztosít, 1.000 Ft/fő áron.<br /><br />Szükség esetén a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
+            <td><b>Saját állítással:</b> <br />12.700 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Aki először jön hozzám a csoportba, és nem kér saját állítást, <br />annak a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />2.540 Ft</td>
+        </tr>
+        <tr class="active">
+            <td>2014. január 24. <br />szombat<br /><a href="http://goo.gl/forms/Z9cclV67TT" class="guru">Jelentkezés</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />Akik előre jelzik étkezési szándékukat, azok számára a hotel <br /> hidegtálas svédasztalt biztosít, 1.000 Ft/fő áron.<br /><br />Szükség esetén a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
+            <td><b>Saját állítással:</b> <br />12.700 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Aki először jön hozzám a csoportba, és nem kér saját állítást, <br />annak a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />2.540 Ft</td>
+        </tr>
+        <tr class="warning">
+            <td>2014. február 7. <br />szombat<br /><a href="http://goo.gl/forms/Z9cclV67TT" class="guru">Jelentkezés</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />Akik előre jelzik étkezési szándékukat, azok számára a hotel <br /> hidegtálas svédasztalt biztosít, 1.000 Ft/fő áron.<br /><br />Szükség esetén a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
+            <td><b>Saját állítással:</b> <br />12.700 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Aki először jön hozzám a csoportba, és nem kér saját állítást, <br />annak a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />2.540 Ft</td>
+        </tr>
+        <tr class="info">
+            <td>2014. február 21. <br />szombat<br /><a href="http://goo.gl/forms/Z9cclV67TT" class="guru">Jelentkezés</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />Akik előre jelzik étkezési szándékukat, azok számára a hotel <br /> hidegtálas svédasztalt biztosít, 1.000 Ft/fő áron.<br /><br />Szükség esetén a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
             <td><b>Saját állítással:</b> <br />12.700 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Aki először jön hozzám a csoportba, és nem kér saját állítást, <br />annak a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />2.540 Ft</td>
         </tr>
 		<!--
@@ -123,6 +144,10 @@
 
         <!--
         <tr class="warning">
+
+        </tr>
+
+        <tr class="success"
 
         </tr>
 
