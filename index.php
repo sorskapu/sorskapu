@@ -91,7 +91,7 @@
 		    <div class="row text-left">
 			<div class="col-lg-12">
             <h4 class="text-center" style="margin:20px 0 0 0;">Ha részt akarsz venni valamelyik családállításon, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
-            <h2 class="text-center" style="margin:0 0 20px 0;><a href="http://goo.gl/forms/Z9cclV67TT">JELENTKEZÉSI LAP</a>
+            <h2 class="text-center" style="margin:0 0 20px 0;"><a href="http://goo.gl/forms/Z9cclV67TT">JELENTKEZÉSI LAP</a>
 			<div class="table-responsive">
 		    <table class="table table-hover">
 	<thead>
