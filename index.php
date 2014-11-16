@@ -90,7 +90,7 @@
         <div class="container">
 		    <div class="row text-left">
 			<div class="col-lg-12">
-            <h4>Ha részt akarsz venni valamelyik családállításon, kérjük, töltsd ki az alábbi <a href="http://goo.gl/forms/Z9cclV67TT">jelentkezési lapot!</a></h4>
+            <h4 style="margin:20px 0 20px 0;">Ha részt akarsz venni valamelyik családállításon, kérjük, töltsd ki az alábbi <a href="http://goo.gl/forms/Z9cclV67TT">jelentkezési lapot!</a></h4>
 			<div class="table-responsive">
 		    <table class="table table-hover">
 	<thead>
