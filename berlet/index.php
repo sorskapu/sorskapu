@@ -75,7 +75,7 @@
     <!--Header-->
     <header id="top" class="header_berlet">
         <div class="text-vertical-center">
-            <h3 style="margin-top:100px;">Bérlet</h3>
+            <!--<h3 style="margin-top:100px;">Bérlet</h3>-->
 			<br />
             <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
 			<div class="fb-like" data-href="http://sorskapu.hu/berlet/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
