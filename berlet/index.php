@@ -77,7 +77,7 @@
         <div class="text-vertical-center">
             <!--<h3 style="margin-top:100px;">Bérlet</h3>-->
 			<br />
-            <a href="#tovabb" style="margin-top:100px;" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
+            <a href="#tovabb" style="margin-top:80px;" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
 			<div class="fb-like" data-href="http://sorskapu.hu/berlet/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
