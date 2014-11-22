@@ -276,6 +276,18 @@ hr.small {
     -o-background-size: cover;
 }
 
+.header_m-gondolat {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(http://cdn.sorskapu.hu/m-gondolat.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .header_asztrologia-001 {
     display: table;
     position: relative;
@@ -374,6 +386,17 @@ hr.small {
     width: 100%;
     height: 100%;
     background: url(http://cdn.sorskapu.hu/szepes-maria-a-voros-oroszlan.jpg) no-repeat center center scroll;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.header_berlet {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(http://cdn.sorskapu.hu/berlet.jpg) no-repeat center center scroll;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
