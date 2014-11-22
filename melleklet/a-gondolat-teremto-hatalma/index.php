@@ -90,7 +90,7 @@
 	
 	<div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
+            <div class="col-md-6 col-md-offset-3">
 	            <div class="responsive-video"><iframe width="420" height="315" src="//www.youtube.com/embed/JvOi2vk6ZPc?rel=0" frameborder="0" allowfullscreen></iframe></div>		
             </div>
         </div>

@@ -90,29 +90,15 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
 				
-				    <!--<div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/b5Dyi-jhjPY?rel=0" frameborder="0" allowfullscreen></iframe></div>-->
-				    					
-								
+				       		
 					<div class="panel panel-default">
-                    <div class="panel-heading"><h2>Bérlet vásárlása</h2></div>
+                    <div class="panel-heading"><p class="lead" style="text-align:justify;">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel hozzájárulsz minden további alkotásunk megvalósulásához. Bérletedet egyszeri alkalommal kedvezményként is felhasználhatod.</p></div>
                     <div class="panel-body">
-                    <p class="lead" style="text-align:justify;">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket.</p>
-                    <p class="lead" style="text-align:justify;">Nagylelkűségeddel hozzájárulsz minden további alkotásunk megvalósulásához. Bérletedet egyszeri alkalommal kedvezményként is felhasználhatod.</p>
-                    <p class="lead" style="text-align:justify;"><img src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!"</p>
-                    <p class="lead" style="text-align:justify;">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005</p>
-                    
+                    <p class="lead"><img src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!"</p>
+                    <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005</p>
                     </div>
-                    </div>
-					
-										
-					<div class="well well-sm">
-					<h4><strong></strong>Kerekes Andrea</h4>
-					<i class="fa fa-info-circle fa-lg"></i> 
-					Végzettségeim: <a href="//cdn.sorskapu.hu/kerekes-andrea-csaladfelallito-oklevel.jpg">Családállítás</a> | <a href="//cdn.sorskapu.hu/kerekes-andrea-asztrologus-kepzes-oklevel.jpg">Asztrológia</a>
-					<center><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/kerekes-andrea.jpg" /></center>
-					
-					</div>
-																			    
+                    </div>													
+																								    
 				</div>
             </div>
             <!-- /.row -->
