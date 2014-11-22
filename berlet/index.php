@@ -92,7 +92,7 @@
 				
 				       		
 					<div class="panel panel-default">
-                    <div class="panel-heading"><p class="lead">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel hozzájárulsz minden további alkotásunk megvalósulásához. Bérletedet egyszeri alkalommal kedvezményként is felhasználhatod.</p></div>
+                    <div class="panel-heading"><p class="lead">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel további terveink megvalósulását segíted elő. Bérletedet egyszeri alkalommal kedvezményként is felhasználhatod.</p></div>
                     <div class="panel-body">
                     <p class="lead"><img src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!"</p>
                     <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005</p>
