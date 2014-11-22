@@ -74,6 +74,8 @@
                             <!--<li class="divider"></li>-->
                         </ul>
                 </li>
+
+                <li><a href="/berlet/">Bérlet</a></li>
                 
 		    </ul>
 			<ul class="nav navbar-nav navbar-right">
