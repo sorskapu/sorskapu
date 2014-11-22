@@ -90,19 +90,11 @@
 	<div class="container">
         <div class="row">
             <div class="col-lg-12">
-                
-                <div class="media">
-                    <a class="pull-left" href="a-gondolat-teremto-hatalma/"><img class="media-object" src="//cdn.sorskapu.hu/ml-gondolat.jpg" alt="Kerekes Andrea - A gondolat teremtő hatalma"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="a-gondolat-teremto-hatalma/" alt="Kerekes Andrea - A gondolat teremtő hatalma">A gondolat teremtő hatalma</a></h4>
-                    <p>Kísérlet a gondolat erejével, Balogh Béla könyve nyomán.</p>
-                </div>
-                </div>
-
+                	    
                 <div class="media">
                     <a class="pull-left" href="biztonsag/"><img class="media-object" src="//cdn.sorskapu.hu/ml-biztonsag.jpg" alt="Kerekes Andrea - Biztonság"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="biztonsag/" alt="Kerekes Andrea - Biztonság">Biztonság</a></h4>
+                    <h4 class="media-heading"><a href="biztonsag/" alt="Kerekes Andrea - Biztonságk">Biztonság</a></h4>
                     <p>Biztonságra vágyom. Miért? És mi is az tulajdonképpen? Egy emlék. Egy kiragadott részlet az életemből. Amikor még édesanyám testében-lelkében voltam és körülölelt valami puha melegség, ami állandónak tűnt.</p>
                 </div>
                 </div>
