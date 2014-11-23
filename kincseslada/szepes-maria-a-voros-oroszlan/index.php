@@ -98,12 +98,13 @@
                         <iframe width="510" height="287" src="//www.youtube.com/embed/3HyoMLsB41w?rel=0" frameborder="0" allowfullscreen></iframe>     
                         </div>
 
-                        <div class="caption">
+                        <div style="margin-top: -20px;" class="caption">
                             <h4>Szepes Mária - A Vörös Oroszlán (Előszó)</h4>                            
                         </div><!-- /.caption -->
 
                     </div><!-- /thumbnail -->
                 </div><!-- /col-md-6 col-md-offset-3 -->
+                <div style="clear:both;"></div>
                 
 
                 <!--Előszó (szöveges változat)-->
