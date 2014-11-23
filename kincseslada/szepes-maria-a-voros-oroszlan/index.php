@@ -202,7 +202,7 @@
                     </div><!-- /thumbnail -->
                 </div><!-- /col-md-6 -->
                 <!--/Harmadik könyv-->
-
+</div><!-- /col-lg-12 -->
                 <!--Bérlet-->
                 <div class="jumbotron">
                     <p class="lead"><a href="/berlet/" alt="Sorskapu Bérlet" title="Sorskapu Bérlet"><img class="img-responsive" style="margin:0 auto 0 auto;" width="600" src="http://cdn.sorskapu.hu/sorskapu-berlet.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet" /></a></p>
@@ -212,7 +212,7 @@
                 </div>    
                 <!--/Bérlet-->
 
-            </div><!-- /col-lg-12 -->
+            
             </div><!-- /row -->
         </div><!-- /container -->
 		
