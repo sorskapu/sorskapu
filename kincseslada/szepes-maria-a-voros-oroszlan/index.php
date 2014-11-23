@@ -108,7 +108,7 @@
 
                 <!--Előszó (szöveges változat)-->
                 <div class="panel panel-default">
-                    <div class="panel-heading"><h2>Előszó Szepes Mária A Vörös Oroszlán című művének hangoskönyv változatához</h2></div>
+                    <div class="panel-heading" text-center><h2>Előszó a mű hangoskönyv változatához</h2></div>
                     <div class="panel-body">
                     <p class="lead" style="text-align:justify;">Szepes Máriával 1999-ben találkoztam először. Egyszerű, emeleti kis lakásában fogadott. S mivel látogatásomnak semmi konkrét célja nem volt azon kívül, hogy kifejezhessem tiszteletemet és csodálatomat, igencsak szerencsésnek éreztem magam azért, hogy ez a találkozó egyáltalán létrejöhetett.</p>
                     <p class="lead" style="text-align:justify;">Mária néni is ezzel kezdte. Elmondta, hogy már alig enged be otthonába valakit, nemrég még a televíziót is visszautasította. Idős már a hosszú beszélgetésekhez. De ha úgy alakul, hogy valaki mégis bent találja magát, annak oka van. Elárulta, hogy mi már sokszor találkoztunk, előző életeinkben. Dolgunk volt, s dolgunk van egymással. Hogy pontosan micsoda, arról nem beszélt. Talán maga sem tudta, s nem is akarta tudni. Talán egyszerűen csak érezte, és ez elég volt neki ahhoz, hogy közel engedjen magához. De az is lehet, hogy ő valóban emlékezett, s lelki szeme előtt valóban látta közös sorsunk részleteit. Nem tudom... de tulajdonképpen nem is lényeges.</p>
@@ -151,7 +151,7 @@
                         </div><!-- /.caption -->
 
                     </div><!-- /thumbnail -->
- 				</div><!-- /col-sm-6 col-md-4 -->
+ 				</div><!-- /col-md-6 -->
                 <!--/A Vörös Oroszlán-->
 
                 <!--Első könyv-->
@@ -167,7 +167,7 @@
                         </div><!-- /.caption -->
 
                     </div><!-- /thumbnail -->
-                </div><!-- /col-sm-6 col-md-4 -->
+                </div><!-- /col-md-6 -->
                 <!--/Első könyv-->
 
                 <!--Második könyv-->
@@ -183,7 +183,7 @@
                         </div><!-- /.caption -->
 
                     </div><!-- /thumbnail -->
-                </div><!-- /col-sm-6 col-md-4 -->
+                </div><!-- /col-md-6 -->
                 <!--/Második könyv-->
 
                 <!--Harmadik könyv-->
@@ -199,20 +199,21 @@
                         </div><!-- /.caption -->
 
                     </div><!-- /thumbnail -->
-                </div><!-- /col-sm-6 col-md-4 -->
+                </div><!-- /col-md-6 -->
                 <!--/Harmadik könyv-->
 
                 <!--Bérlet-->
                 <div class="panel panel-default">
                     <div class="panel-body">
-                    <p class="lead"><a href="http://cdn.sorskapu.hu/sorskapu-berlet.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet"><img class="img-responsive" style="margin:0 auto 0 auto;" src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet" /></a></p>
-                    <p class="lead">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel további terveink megvalósulását segíted elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak rád!</p>
-                    <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
-                    <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br /><b>Közlemény rovat:</b> Sorskapu Bérlet<br /><br />Számlázási adataidat a következő e-mail címre küldd: <br /><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#111;&#114;&#115;&#107;&#97;&#112;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" title="Email címünk">&#115;&#111;&#114;&#115;&#107;&#97;&#112;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></p>
+                        <p class="lead"><a href="http://cdn.sorskapu.hu/sorskapu-berlet.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet"><img class="img-responsive" style="margin:0 auto 0 auto;" src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet" /></a></p>
+                        <p class="lead">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel további terveink megvalósulását segíted elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak rád!</p>
+                        <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="http://cdn.sorskapu.hu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
+                        <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br /><b>Közlemény rovat:</b> Sorskapu Bérlet<br /><br />Számlázási adataidat a következő e-mail címre küldd: <br /><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#111;&#114;&#115;&#107;&#97;&#112;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" title="Email címünk">&#115;&#111;&#114;&#115;&#107;&#97;&#112;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></p>
                     </div>
                 </div>  
                 <!--/Bérlet-->
 
+            </div><!-- /col-lg-12 -->
             </div><!-- /row -->
         </div><!-- /container -->
 		
