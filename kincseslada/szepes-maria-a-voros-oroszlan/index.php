@@ -208,7 +208,7 @@
                 <!--Bérlet-->
                 <div class="jumbotron">
                     <p class="lead"><a href="/berlet/" alt="Sorskapu Bérlet" title="Sorskapu Bérlet"><img class="img-responsive" style="margin:0 auto 0 auto;" width="800" src="https://s3-eu-west-1.amazonaws.com/sorskapu/sorskapu-berlet.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet" /></a></p>
-                    <p class="lead">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel további terveink megvalósulását segíted elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak rád!</p>
+                    <p class="lead">Bérletünk szabadáras, azaz Ön határozhatja meg, hogy milyen összeggel támogat minket. Nagylelkűségével további terveink megvalósulását segíti elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak Önre!</p>
                     <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="http://cdn.sorskapu.hu/berlet-ganesha2.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
                     <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br />Közlemény: Sorskapu Bérlet<br /><br /><b>Kérjük, hogy feltétlenül töltsék ki a következő adatlapot, hogy az ÁFÁ-s számlát kiállíthassuk, illetve hogy az esetleges nyereményekről értesíteni tudjuk:</b> <a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Bérletvásárlás</a></p>
                 </div>    
