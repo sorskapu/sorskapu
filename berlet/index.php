@@ -95,7 +95,7 @@
                     <div class="panel-heading"><p class="lead">Bérletünk szabadáras, azaz te magad határozhatod meg, hogy milyen összeggel támogatsz minket. Nagylelkűségeddel további terveink megvalósulását segíted elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak rád!</p></div>
                     <div class="panel-body">
                     <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="https://s3-eu-west-1.amazonaws.com/sorskapu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
-                    <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br /><b>Közlemény rovat:</b> Sorskapu Bérlet<br /><br />Feltétlenül küldjék el számlázási címüket a &#115;&#111;&#114;&#115;&#107;&#97;&#112;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109; e-mail címre, vagy töltsék ki az alábbi adatlapot (<a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Bérletvásárlás</a>), hogy az ÁFÁ-s számlát kiállíthassuk!</p>
+                    <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br /><b>Közlemény rovat:</b> Sorskapu Bérlet<br /><br />Kérjük, hogy feltétlenül küldjék el számlázási címüket a &#115;&#111;&#114;&#115;&#107;&#97;&#112;&#117;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109; e-mail címre, vagy töltsék ki a következő adatlapot: <a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Bérletvásárlás</a></p>
                     </div>
                     </div>													
 																								    
