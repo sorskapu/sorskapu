@@ -78,7 +78,7 @@
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb" style="margin-top:100px;" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/kincseslada/szepes-maria-a-voros-oroszlan/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			<div class="fb-like" data-href="http://www.sorskapu.hu/kincseslada/szepes-maria-a-voros-oroszlan/" data-width="320" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
     <!--/Header -->
