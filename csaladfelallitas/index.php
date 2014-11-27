@@ -19,7 +19,7 @@
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Családállítás" />
     <meta property="og:description" content="Nézz a dolgok mélyére, és adj egy esélyt a gyógyulásra! Családállítás Kerekes Andrea vezetésével." />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_csaladfelallitas.jpg" />
+    <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/sorskapu/fb_csaladfelallitas.jpg" />
     <!-- Facebook Like End -->
 
     <title>Családfelállítás</title>
