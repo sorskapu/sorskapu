@@ -17,8 +17,8 @@
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
-	<meta property="og:title" content="Családfelállítás" />
-    <meta property="og:description" content="Peter Orban tanításai alapján dolgozom mint családfelállító terapeuta. Folyamatosan induló csoportjaimba várom a jelentkezőket, az ország bármely pontjáról." />
+	<meta property="og:title" content="Családállítás" />
+    <meta property="og:description" content="Nézz a dolgok mélyére, és adj egy esélyt a gyógyulásra! Családállítás Kerekes Andrea vezetésével." />
     <meta property="og:image" content="http://cdn.sorskapu.hu/fb_csaladfelallitas.jpg" />
     <!-- Facebook Like End -->
 
