@@ -210,7 +210,32 @@
                     <p class="lead"><a href="/berlet/" alt="Sorskapu Bérlet" title="Sorskapu Bérlet"><img class="img-responsive" style="margin:0 auto 0 auto;" width="800" src="https://s3-eu-west-1.amazonaws.com/sorskapu/sorskapu-berlet.jpg" alt="Sorskapu Bérlet" title="Sorskapu Bérlet" /></a></p>
                     <p class="lead">Bérletünk szabadáras, azaz Ön határozhatja meg, hogy milyen összeggel támogat minket. Nagylelkűségével további terveink megvalósulását segíti elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak Önre!</p>
                     <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="http://cdn.sorskapu.hu/berlet-ganesha2.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
-                    <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br />Közlemény: Sorskapu Bérlet<br /><br /><b>Kérjük, feltétlenül töltsék ki a következő adatlapot, hogy az ÁFÁ-s számlát kiállíthassuk, illetve hogy az esetleges nyereményekről értesíteni tudjuk:</b> <a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Bérletvásárlás</a></p>
+                    
+                    <div class="col-md-6">
+                        <div class="panel panel-default">
+                        <div class="panel-heading"><h3>Bankkártyás fizetés</h3></div>
+                        <div class="panel-body">
+                        <br />
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="H2LJL2HBBMRJY">
+                        <input type="image" src="http://cdn.sorskapu.hu/paypal.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                        <br /><br /><br />
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="panel panel-default">
+                        <div class="panel-heading"><h3>Banki átutalás</h3></div>
+                        <div class="panel-body"><br />
+                        <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br />Közlemény: Sorskapu Bérlet<br /><br /><b>Kérjük, feltétlenül töltsék ki a következő adatlapot, hogy az ÁFÁ-s számlát kiállíthassuk, illetve hogy az esetleges nyereményekről értesíteni tudjuk:</b> <br /><a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Adatlap</a></p>
+                        </div>
+                        </div>
+                    </div>
+
                 </div>    
                 <!--/Bérlet-->
 
