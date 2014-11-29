@@ -66,7 +66,8 @@
     <header id="top" class="header_vip">
         <div class="text-vertical-center">
             <h3 style="margin-top:100px;">VIP Oldal</h3>
-            <p>Kedves Bérlettulajdonos!<br /><br />Hálásan köszönjük támogatását, fogadja szeretettel ajándékunkat!</p>
+            <br />
+            <p>Kedves Bérlettulajdonos!<br />Hálásan köszönjük támogatását, fogadja szeretettel ajándékunkat!</p>
 			<br />
             <a href="#" style="off margin-top:80px;" class="btn btn-dark btn-lg">Peter Orban - A hős utazása 1.</a>
 		</div>
