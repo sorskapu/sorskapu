@@ -235,9 +235,10 @@
                         </div>
                         </div>
                     </div>
-                    <div style="clean:both;"></div>
+                    
+                    <div style="clear:both;"></div>
 
-                </div>    
+                </div>
                 <!--/Bérlet-->
 
             </div><!-- /col-lg-12 -->
