@@ -63,8 +63,14 @@
 	<!--/Menu-->
 
     <!--Header-->
-    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
-	<!--Header-->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
+	        </div>
+        </div>
+    </div>
+    <!--Header-->
     
     <!-- jQuery Version 1.11.0 -->
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
