@@ -63,7 +63,7 @@
 	<!--/Menu-->
 
     <!--Header-->
-    <iframe width="100%" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
+    <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
 	<!--Header-->
     
     <!-- jQuery Version 1.11.0 -->
