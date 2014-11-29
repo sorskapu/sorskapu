@@ -5,4 +5,4 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <center><img src="http://cdn.sorskapu.hu/sorskapu.png" /></center>
 <br />
-<center><p style="font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;">Köszönjük szépen a vásárlást!</p></center>
+<center><p style="font-family: Arial; font-size="18px;">Köszönjük szépen a vásárlást!</p></center>
