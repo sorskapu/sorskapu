@@ -98,7 +98,7 @@
                     
                     <div class="col-md-6">
                         <div class="panel panel-default">
-                        <div class="panel-heading"><p class="lead">PayPay</p></div>
+                        <div class="panel-heading"><h3>PayPay</h3></div>
                         <div class="panel-body">
                         <p>Hamarosan...</p>
                         </div>
