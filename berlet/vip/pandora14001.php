@@ -22,7 +22,7 @@
     <meta property="og:image" content="http://cdn.sorskapu.hu/fb_berlet.jpg" />
     <!-- Facebook Like End -->
 
-    <title>Bérlettulajdonosok Oldala</title>
+    <title>Peter Orban - A hős utazása 1.</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -63,13 +63,11 @@
 	<!--/Menu-->
 
     <!--Header-->
-    <header id="top" class="header_vip">
+    <header id="top" class="header_secret">
         <div class="text-vertical-center">
-            <h3 style="margin-top:100px;">VIP Oldal</h3>
-            <br />
-            <p style="font-size:14px;">Kedves Bérlettulajdonos!<br />Hálásan köszönjük támogatását, fogadja szeretettel ajándékunkat!</p>
-			<br />
-            <a href="pandora14001.php" style="off margin-top:80px;" class="btn btn-dark btn-lg">Peter Orban - A hős utazása 1.</a>
+            <div class="responsive-video">
+                <iframe src="//www.soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN" frameborder="0" allowfullscreen></iframe>
+            </div>
 		</div>
 	</header>
 	<!--Header-->

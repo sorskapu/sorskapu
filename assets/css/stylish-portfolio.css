@@ -414,6 +414,17 @@ hr.small {
     -o-background-size: cover;
 }
 
+.header_secret {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    off background: url(http://cdn.sorskapu.hu/vip.jpg) no-repeat center center scroll;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 /* About */
 
 .about {
