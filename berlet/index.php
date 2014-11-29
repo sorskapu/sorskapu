@@ -115,7 +115,7 @@
                     <div class="col-md-6">
                         <div class="panel panel-default">
                         <div class="panel-heading"><h3>Banki átutalás</h3></div>
-                        <div class="panel-body">
+                        <div class="panel-body"><br />
                         <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br />Közlemény: Sorskapu Bérlet<br /><br /><b>Kérjük, feltétlenül töltsék ki a következő adatlapot, hogy az ÁFÁ-s számlát kiállíthassuk, illetve hogy az esetleges nyereményekről értesíteni tudjuk:</b> <a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Bérletvásárlás</a></p>
                         </div>
                         </div>
