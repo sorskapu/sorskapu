@@ -67,7 +67,7 @@
         <div class="text-vertical-center">
             <h3 style="margin-top:100px;">VIP Oldal</h3>
             <br />
-            <p style="font-size:14px;">Kedves Bérlettulajdonos!<br />Hálásan köszönjük támogatását, fogadja szeretettel ajándékunkat!</p>
+            <p style="font-size:16px;">Kedves Bérlettulajdonos!<br />Hálásan köszönjük támogatását, fogadja szeretettel ajándékunkat!</p>
 			<br />
             <a href="pandora14001.php" style="off margin-top:80px;" class="btn btn-dark btn-lg">Peter Orban - A hős utazása 1.</a>
 		</div>
