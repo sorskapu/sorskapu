@@ -63,14 +63,7 @@
 	<!--/Menu-->
 
     <!--Header-->
-    <header id="top" class="header_secret">
-        <div class="text-vertical-center">
-            <div class="responsive-video">
-            <iframe width="100%" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
-                
-            </div>
-		</div>
-	</header>
+    <iframe width="100%" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
 	<!--Header-->
     
     <!-- jQuery Version 1.11.0 -->
