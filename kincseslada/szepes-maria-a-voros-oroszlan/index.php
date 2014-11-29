@@ -235,7 +235,7 @@
                         </div>
                         </div>
                     </div>
-                    <div style:"clean:both;"></div>
+                    <div style="clean:both;"></div>
 
                 </div>    
                 <!--/Bérlet-->
