@@ -66,7 +66,8 @@
     <header id="top" class="header_secret">
         <div class="text-vertical-center">
             <div class="responsive-video">
-                <iframe src="//www.soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN" frameborder="0" allowfullscreen></iframe>
+            <iframe width="100%" scrolling="no" frameborder="no" src="https://soundcloud.com/sorskapu/peter-orban-a-hos-utazasa/s-PymxN"></iframe>
+                
             </div>
 		</div>
 	</header>
