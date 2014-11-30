@@ -69,7 +69,7 @@
             <br />
             <p style="font-size:16px;">Kedves Bérlettulajdonos!<br />Hálásan köszönjük támogatását, fogadja szeretettel ajándékunkat!</p>
 			<br />
-            <a href="pandora14001.php" style="off margin-top:80px;" class="btn btn-dark btn-lg">Peter Orban - A hős utazása 1.</a>
+            <a href="#tovabb" style="off margin-top:80px;" class="btn btn-dark btn-lg guru">Peter Orban - A hős utazása 1.</a>
 		</div>
 	</header>
 	<!--Header-->
