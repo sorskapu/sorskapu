@@ -1,4 +1,4 @@
 AuthUserFile /home/sorskapu/.htpasswd
 AuthType Basic
-AuthName "VIP Oldal - Sorskapu Bérlettulajdonosoknak"
+AuthName "VIP Oldal"
 Require valid-user

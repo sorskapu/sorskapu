@@ -73,6 +73,39 @@
 		</div>
 	</header>
 	<!--Header-->
+
+    <!--VIP-->
+    <section id="tovabb" style="padding:50px 0;">
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+
+                <!-- Peter Orban - A hős utazása -->
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="thumbnail">
+
+                        <div class="responsive-video">
+                        <iframe width="510" height="287" src="//www.youtube.com/embed/J9VKIjTSgWM?rel=0" frameborder="0" allowfullscreen></iframe>     
+                        </div>
+
+                        <div style="margin-top: -20px;" class="caption">
+                            <h4>Peter Orban - A hős utazása 1.</h4>
+                            <p style="text-align:justify;"><br />Amikor elhatározzuk, hogy elindulunk egy olyan úton, ami nem felfelé vezet, hanem lefelé, tudjuk, hogy az út félelmetes lesz és kiszámíthatatlan. Itt nem segít majd a logikus gondolkodás, hiszen a lélek nem ismeri a logikát. Ezen a tájon nincs tér és nincs idő, nem léteznek okok és nincsenek következmények.<br /><br />Amikor a szakadék mélységei felé vesszük az irányt, hogy eljussunk lelkünk  eddig árnyékban meghúzódó  másik oldalára, szükségünk van valakire, aki vezet minket, és segít az úton. Ő a bennünk élő gyógyító, lelkünk saját szövetségese.<br /><br />Az első képzeletbeli utazás során találkozhatunk vele, és megbízhatjuk őt ezzel a feladattal. Így belső vezetőnk végig mellettünk lesz, és amikor éppen szembesülünk valamivel, figyelmeztetni fog:<br /><br />Nézz oda! Ez te vagy! Minden, amit kellemetlennek tartasz, minden, amit gyűlölsz, valójában nem más, mint az, amit nem fogadsz el saját magadban. Csak azt utasítod el, ami hiányzik belőled. Nem akarod látni, de attól még ott van: benned! Fordulj meg és nézz szembe vele! Ne félj, én közben vigyázok rád!</p>                        
+                            <p><a class="btn btn-primary btn-lg" href="/kincseslada/#peterorban" role="button">További részek</a></p>
+                        </div><!-- /.caption -->
+
+                    </div><!-- /thumbnail -->
+                </div><!-- /col-md-6 col-md-offset-3 -->
+                <!-- /Peter Orban - A hős utazása -->
+                <div style="clear:both;"></div>
+
+                </div><!-- /col-lg-12 -->
+            </div><!-- /row -->
+        </div><!-- /container -->
+        
+    </section>
+    <!--/VIP-->
     
     <!-- jQuery Version 1.11.0 -->
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
