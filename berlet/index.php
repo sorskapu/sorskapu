@@ -94,7 +94,7 @@
 					<div class="panel panel-default">
                     <div class="panel-heading">
                     <p class="lead">Bérletünk szabadáras, azaz Ön határozhatja meg, hogy milyen összeggel támogat minket. Nagylelkűségével további terveink megvalósulását segíti elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak Önre!</p>
-                    <p><a class="btn btn-primary btn-lg" href="/vip/" role="button">Bérlettulajdonosok VIP Oldala</a></p>
+                    <p><a class="btn btn-primary btn-lg" href="vip/" role="button">Bérlettulajdonosok VIP Oldala</a></p>
                     </div>
                     <div class="panel-body">
                     <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="https://s3-eu-west-1.amazonaws.com/sorskapu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
