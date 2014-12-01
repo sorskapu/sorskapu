@@ -1,4 +1,4 @@
-AuthUserFile /home/sorskapu/.htpasswd
+AuthUserFile /home/sorskapu/html/berlet/vip/.htpasswd
 AuthType Basic
 AuthName "VIP Oldal"
 Require valid-user
