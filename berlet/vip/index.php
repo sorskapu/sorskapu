@@ -90,8 +90,9 @@
                         </div>
 
                         <div style="margin-top: -20px;" class="caption">
-                            <h4>Peter Orban - A hős utazása 1.</h4>
+                            <h3>Peter Orban - A hős utazása 1.</h3>
                             <p style="text-align:justify;"><br />Amikor elhatározzuk, hogy elindulunk egy olyan úton, ami nem felfelé vezet, hanem lefelé, tudjuk, hogy az út félelmetes lesz és kiszámíthatatlan. Itt nem segít majd a logikus gondolkodás, hiszen a lélek nem ismeri a logikát. Ezen a tájon nincs tér és nincs idő, nem léteznek okok és nincsenek következmények.<br /><br />Amikor a szakadék mélységei felé vesszük az irányt, hogy eljussunk lelkünk  eddig árnyékban meghúzódó  másik oldalára, szükségünk van valakire, aki vezet minket, és segít az úton. Ő a bennünk élő gyógyító, lelkünk saját szövetségese.<br /><br />Az első képzeletbeli utazás során találkozhatunk vele, és megbízhatjuk őt ezzel a feladattal. Így belső vezetőnk végig mellettünk lesz, és amikor éppen szembesülünk valamivel, figyelmeztetni fog:<br /><br />Nézz oda! Ez te vagy! Minden, amit kellemetlennek tartasz, minden, amit gyűlölsz, valójában nem más, mint az, amit nem fogadsz el saját magadban. Csak azt utasítod el, ami hiányzik belőled. Nem akarod látni, de attól még ott van: benned! Fordulj meg és nézz szembe vele! Ne félj, én közben vigyázok rád!</p>                        
+                            <br /><br />
                             <p><a class="btn btn-primary btn-lg" href="/kincseslada/#peterorban" role="button">További részek</a></p>
                         </div><!-- /.caption -->
 
