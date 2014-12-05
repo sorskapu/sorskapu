@@ -43,7 +43,7 @@
                             <li><a href="/asztrologia/2014-szeptember-mars-neptunusz-quadrat/">2014. szeptember 22. | Mars - Neptunusz quadrát</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Asztrológiai írások</li>
-                            <li><a href="/asztrologia/2014-november-6-telihold/">2014. november 6. - Telihold</a></li>
+                            <li><a href="/asztrologia/telihold/">Telihold</a></li>
                             <li><a href="/asztrologia/2012-2015-uranusz–pluto-quadrat/">2012 - 2015. | Uránusz - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/a-nap-a-rendezoi-utasitas/">A Nap - a rendezői utasítás</a></li>                               
                         </ul>

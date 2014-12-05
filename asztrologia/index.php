@@ -157,9 +157,9 @@
                 </div>
 
                 <div class="media">
-                    <a class="pull-left" href="2014-november-6-telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: 2014. november 6. - Telihold"></a>
+                    <a class="pull-left" href="telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: Telihold"></a>
                 <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-november-6-telihold/" alt="Asztrológiai írások: 2014. november 6. - Telihold">2014. november 6. - Telihold</a></h4>
+                    <h4 class="media-heading"><a href="telihold/" alt="Asztrológiai írások: Telihold">Telihold</a></h4>
                     <p>Azt nevezzük teliholdnak, amikor a Nap és a Hold szemben állnak az égen. Azaz két teljesen eltérő energia folytat küzdelmet egymással a lelkünkben.</p>
                 </div>
                 </div>
