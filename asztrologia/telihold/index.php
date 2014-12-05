@@ -94,7 +94,7 @@
 				    <div class="panel panel-default">
 					     <div class="panel-heading" style="text-align:center;">
                          <h2>Telihold</h2>
-                         <p>2014. december 6.</p>
+                         <p style="font-size:14px;">2014. december 6.</p>
                          </div>
 					     <div class="panel-body">
 						 <br /> 
