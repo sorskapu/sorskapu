@@ -13,7 +13,7 @@
 	<!-- Facebook -->
 	<meta property="fb:app_id" content="1459644830989485" />
     <meta property="fb:admins" content="100000956925477"/>
-    <meta property="og:url" content="http://www.sorskapu.hu/"/>
+    <meta property="og:url" content="http://www.sorskapu.hu/telihold/"/>
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
@@ -79,7 +79,7 @@
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2014-november-6-telihold/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/telihold/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
     <!--/Header -->
@@ -126,7 +126,7 @@
 	    <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-	                <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/2014-november-6-telihold/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+	                <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/telihold/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
 	            </div>
             </div>																					    
 	    </div>
@@ -139,7 +139,7 @@
     <div id="kapcsolat" class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2014-november-6-telihold/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/telihold/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
                 <br /><br />
 
                 <!--kontakt-->
