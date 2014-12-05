@@ -92,7 +92,10 @@
                 <div class="col-lg-12">
 				
 				    <div class="panel panel-default">
-					     <div class="panel-heading" style="text-align:center;"><h2>Telihold<br />2014. december 6.</h2></div>
+					     <div class="panel-heading" style="text-align:center;">
+                         <h2>Telihold</h2>
+                         <p>2014. december 6.</p>
+                         </div>
 					     <div class="panel-body">
 						 <br /> 
                          <p class="lead" style="text-align:justify;">Azt nevezzük teliholdnak, amikor a Nap és a Hold szemben állnak az égen. Azaz két teljesen eltérő energia folytat küzdelmet egymással a lelkünkben, s ez bizony okozhat némi feszültséget. </p>
