@@ -214,7 +214,7 @@
                     <div class="col-md-6">
                         <div class="panel panel-default">
                         <div class="panel-heading"><h3>Bankkártyás fizetés</h3></div>
-                        <div class="panel-body text-center">
+                        <div class="panel-body"><center>
                         <br />
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
@@ -222,7 +222,7 @@
                         <input type="image" class="img-responsive" src="http://cdn.sorskapu.hu/paypal.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                         </form>
-                        <br /><br /><br />
+                        <br /><br /><br /></center>
                         </div>
                         </div>
                     </div>
