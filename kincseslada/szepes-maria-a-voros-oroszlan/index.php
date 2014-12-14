@@ -214,7 +214,7 @@
                     <div class="col-md-6">
                         <div class="panel panel-default">
                         <div class="panel-heading"><h3>Bankkártyás fizetés</h3></div>
-                        <div class="panel-body">
+                        <div class="panel-body text-center">
                         <br />
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                         <input type="hidden" name="cmd" value="_s-xclick">
