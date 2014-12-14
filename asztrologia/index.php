@@ -80,7 +80,7 @@
 			<a href="#tovabb" class="btn btn-dark btn-lg guru">Asztrológiai időjárásjelentés</a><br /><br />
             <a href="#tovabb2" class="btn btn-dark btn-lg guru">Asztrológiai írások</a><br /><br />
 			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br /><br />
-            <a href="http://goo.gl/9CMbNx" class="btn btn-dark btn-lg">Jelentkezés</a>
+            <a href="http://goo.gl/forms/vs4rHbysht" class="btn btn-dark btn-lg">Jelentkezés</a>
         </div>
 	</header>
 	<!--/Header-->
