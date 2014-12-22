@@ -142,6 +142,22 @@
                 <div class="alert alert-info" role="alert">Asztrológiai írások</div>
 
                 <div class="media">
+                    <a class="pull-left" href="a-bennunk-szuleto-feny/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-008.jpg" alt="Asztrológiai írások: A bennünk születő fény"></a>
+                <div class="media-body">
+                    <h4 class="media-heading"><a href="a-bennunk-szuleto-feny/" alt="Asztrológiai írások: A bennünk születő fény">A bennünk születő fény</a></h4>
+                    <p>Öt bolygó a Bakban, sok-sok energia csoportosul egy helyen, egy időben. Gazdag és változatos élményekben lehet részünk.</p>
+                </div>
+                </div>
+
+                <div class="media">
+                    <a class="pull-left" href="telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: Telihold"></a>
+                <div class="media-body">
+                    <h4 class="media-heading"><a href="telihold/" alt="Asztrológiai írások: Telihold">Telihold</a></h4>
+                    <p>Azt nevezzük teliholdnak, amikor a Nap és a Hold szemben állnak az égen. Azaz két teljesen eltérő energia folytat küzdelmet egymással a lelkünkben.</p>
+                </div>
+                </div>
+
+                <div class="media">
                     <a class="pull-left" href="2012-2015-uranusz–pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-004.jpg" alt="Asztrológiai írások: 2012 - 2015. | Uránusz - Plútó quadrát"></a>
                 <div class="media-body">
                     <h4 class="media-heading"><a href="2012-2015-uranusz–pluto-quadrat/" alt="Asztrológiai írások: 2012 - 2015 | Uránusz - Plútó quadrát">2012 - 2015. | Uránusz - Plútó quadrát</a></h4>
@@ -156,15 +172,7 @@
                     <p>Az ember csak akkor adja fel a saját tökéletességébe vetett hitét, ha beleesik egója csapdájába. Csak akkor hajlandó önmagába nézni, ha a külvilágban már nincs más megoldási lehetőség.</p>
                 </div>
                 </div>
-
-                <div class="media">
-                    <a class="pull-left" href="telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: Telihold"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="telihold/" alt="Asztrológiai írások: Telihold">Telihold</a></h4>
-                    <p>Azt nevezzük teliholdnak, amikor a Nap és a Hold szemben állnak az égen. Azaz két teljesen eltérő energia folytat küzdelmet egymással a lelkünkben.</p>
-                </div>
-                </div>
-
+                
                 </section>
 												
             </div>
