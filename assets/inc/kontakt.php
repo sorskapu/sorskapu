@@ -16,3 +16,6 @@
 </script>
 
 <!--/AdSense-->
+
+<hr class="small" style="margin: 50px auto 20px auto;">
+<p class="text-muted">Copyright &copy; sorskapu.hu 2014-2015.</p>

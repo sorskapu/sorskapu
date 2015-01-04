@@ -12,8 +12,8 @@
 	
 	<!-- Facebook -->
 	<meta property="fb:app_id" content="1459644830989485" />
-    <meta property="fb:admins" content="100000956925477"/>
-    <meta property="og:url" content="http://www.sorskapu.hu/partnerek/
+    <meta property="fb:admins" content="100000956925477" />
+    <meta property="og:url" content="http://www.sorskapu.hu/partnerek" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Partnerek" />

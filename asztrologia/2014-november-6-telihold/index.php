@@ -139,9 +139,7 @@
                 <!--kontakt-->
                 <?php include '../../assets/inc/kontakt.php';?>
                 <!--/kontakt-->
-					
-					      <hr class="small" style="margin: 50px auto 20px auto;">
-                <p class="text-muted">Copyright &copy; sorskapu.hu 2014</p>
+
                 </div>
             </div>
         </div>
