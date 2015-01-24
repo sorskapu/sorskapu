@@ -30,7 +30,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Családállítás <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="/csaladfelallitas/">A családállításról</a></li>
-                            <li><a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/">Újabb gondolatok a témában</a></li>
+                            <!--<li><a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/">Újabb gondolatok a témában</a></li>-->
                             <li class="divider"></li>
                             <li><a href="http://goo.gl/forms/Z9cclV67TT">Jelentkezés családállításra</a></li>
                         </ul>
