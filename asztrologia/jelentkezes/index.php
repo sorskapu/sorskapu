@@ -79,13 +79,15 @@
             <div class="row">
                 <div class="col-lg-12">
 				
-                <center>
-		        <div class="cognito" style="text-align:left;">
+                <div class="panel panel-default">
+                <div class="panel-body">
+		        <div class="cognito">
                 <script src="https://services.cognitoforms.com/include/required"></script>
                 <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
                 <script>Cognito.load("forms", { id: "1" });</script>
                 </div>
-                </center>
+                </div>
+                </div>  
 																								    
 				</div>
             </div>
