@@ -77,7 +77,7 @@
 	
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 text-center">
 				
 		        <div class="cognito">
                 <script src="https://services.cognitoforms.com/include/required"></script>
