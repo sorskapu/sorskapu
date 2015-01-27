@@ -80,7 +80,7 @@
                 <div class="col-lg-12">
 				
                 <center>
-		        <div class="cognito">
+		        <div class="cognito" style="text-align:center;">
                 <script src="https://services.cognitoforms.com/include/required"></script>
                 <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
                 <script>Cognito.load("forms", { id: "1" });</script>
