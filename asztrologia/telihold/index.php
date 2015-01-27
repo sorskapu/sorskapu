@@ -149,7 +149,6 @@
                 <?php include '../../assets/inc/kontakt.php';?>
                 <!--/kontakt-->
 				
-                <p class="text-muted">Copyright &copy; sorskapu.hu 2014</p>
                 </div>
             </div>
         </div>
