@@ -19,7 +19,8 @@
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Jelentkezési lap" />
     <meta property="og:description" content="Jelentkezés családállításra!" />
-    <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/sorskapu/fb_csaladfelallitas.jpg
+    <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/sorskapu/fb_csaladfelallitas.jpg" />
+    <!-- Facebook Like End -->
  
     <title>Jelentkezés családállításra</title>
 
