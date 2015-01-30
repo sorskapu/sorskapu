@@ -99,30 +99,19 @@
                     <div class="panel-body">
                     <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="https://s3-eu-west-1.amazonaws.com/sorskapu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
                     
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-md-offset-3">
+                
                         <div class="panel panel-default">
-                        <div class="panel-heading"><h3>Bankkártyás fizetés</h3></div>
-                        <div class="panel-body"><center>
-                        <br />
-                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                        <input type="hidden" name="cmd" value="_s-xclick">
-                        <input type="hidden" name="hosted_button_id" value="H2LJL2HBBMRJY">
-                        <input type="image" class="img-responsive" src="http://cdn.sorskapu.hu/paypal.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                        </form>
-                        <br /><br /><br /></center>
-                        </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="panel panel-default">
-                        <div class="panel-heading"><h3>Banki átutalás</h3></div>
-                        <div class="panel-body"><br />
-                        <p class="lead">Symbolon Kiadó Kft.<br />CIB Bank | 10701269-49382501-51100005<br />Közlemény: Sorskapu Bérlet<br /><br /><b>Kérjük, feltétlenül töltsék ki a következő adatlapot, hogy az ÁFÁ-s számlát kiállíthassuk, illetve hogy az esetleges nyereményekről értesíteni tudjuk:</b> <br /><a href="http://goo.gl/NWQ0tW" alt="Sorskapu Bérletvásárlás" title="Sorskapu Bérletvásárlás">Adatlap</a></p>
-                        </div>
-                        </div>
-                    </div>
+                            <div class="panel-body">
+                            <div class="cognito">
+                            <script src="https://services.cognitoforms.com/include/required"></script>
+                            <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
+                            <script>Cognito.load("forms", { id: "3" });</script>
+                            </div>
+                            </div>
+                        </div>  
+                                                                                                    
+                </div>
                     
                     </div>
                     </div>													
