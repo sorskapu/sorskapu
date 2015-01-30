@@ -6,11 +6,11 @@
 <!--AdSense-->
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- sorskapu -->
+<!-- sorskapu2 -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:inline-block;width:300px;height:250px"
      data-ad-client="ca-pub-8101132359371519"
-     data-ad-slot="5202794180"></ins>
+     data-ad-slot="2140710989"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
