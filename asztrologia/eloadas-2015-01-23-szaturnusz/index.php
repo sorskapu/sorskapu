@@ -6,23 +6,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Jelentkezés családállításra!">
-	<meta name="keywords" content="családállítás, családfelállítás, Bert Hellinger, Peter Orban, Kerekes Andrea, csoportos terápia, lélek,">
+    <meta name="description" content="Szeretettel ajánljuk figyelmetekbe a 2015. január 23-ai előadás letölthető változatát!">
+	<meta name="keywords" content="Kerekes Andrea, asztrológia, Asztrológiai előadás, Szaturnusz, Isten, szabad akarat, félelem, sors, sorskapu,">
     <link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
 	
 	<!-- Facebook -->
 	<meta property="fb:app_id" content="1459644830989485" />
     <meta property="fb:admins" content="100000956925477"/>
-    <meta property="og:url" content="http://www.sorskapu.hu/csaladfelallitas/jelentkezes/"/>
+    <meta property="og:url" content="http://www.sorskapu.hu/asztrologia/eloadas-2015-01-23-szaturnusz/"/>
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
-	<meta property="og:title" content="Jelentkezési lap" />
-    <meta property="og:description" content="Jelentkezés családállításra!" />
-    <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/sorskapu/fb_csaladfelallitas.jpg" />
+	<meta property="og:title" content="Előadás a Szaturnuszról" />
+    <meta property="og:description" content="Szeretettel ajánljuk figyelmetekbe a 2015. január 23-ai előadás letölthető változatát!" />
+    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_eloadas-001.jpg" />
     <!-- Facebook Like End -->
- 
-    <title>Jelentkezés családállításra</title>
+
+    <title>Előadás a Szaturnuszról</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -72,23 +72,41 @@
 	<?php include '../../assets/inc/menu.php';?>
 	<!--/Menu-->
 
-    <!--Jelentkezés családállításra!-->
-    <section style="padding:100px 0;">
+    <!--Header -->
+    <header id="top" class="header_eloadas-001">
+        <div class="text-vertical-center">
+            <h4 class="btn btn-dark btn-lg" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;"><a href="#tovabb">Előadás a Szaturnuszról - Ajánló</a></h4>
+			<div style="clear: both;"></div>
+			<br />
+            <a href="#tovabb2" class="btn btn-dark btn-lg guru">Megrendelés</a><br /><br />
+			<div class="fb-like" data-href="http://www.sorskapu.hu/eloadas-2015-01-23-szaturnusz/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+		</div>
+	</header>
+    <!--/Header -->
+	
+    <!--Asztrológia / 2012 - 2015. | Uránusz - Plútó quadrát-->
+    <section id="tovabb" style="padding:50px 0;">
 	
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-md-offset-3">
+                <div class="col-lg-12">
+
+                    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/lOJOuFI_38M?rel=0" frameborder="0" allowfullscreen></iframe></div>
 				
-                <div class="panel panel-default">
-                <div class="panel-body">
-                <div class="cognito">
-                <script src="https://services.cognitoforms.com/include/required"></script>
-                <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
-                <script>Cognito.load("forms", { id: "2" });</script>
-                </div>
-                </div>
-                </div>  
+				    <div class="col-md-6 col-md-offset-3">
                 
+                    <div class="panel panel-default">
+                    <div class="panel-body">
+                    <div class="cognito">
+                    <script src="https://services.cognitoforms.com/include/required"></script>
+                    <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
+                    <script>Cognito.load("forms", { id: "4" });</script>
+                    </div>
+                    </div>
+                    </div>  
+                
+                                                                                                    
+                </div>
 																								    
 				</div>
             </div>
@@ -97,8 +115,18 @@
         <!-- /.container -->
 		
     </section>
-	<!--/Jelentkezés családállításra!-->
-		  
+	<!--/Asztrológia / 2012 - 2015. | Uránusz - Plútó quadrát-->
+	
+	<!-- FB Comments -->
+	    <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	                <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/eloadas-2015-01-23-szaturnusz/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+	            </div>
+            </div>																					    
+	    </div>
+    <!-- /FB Comments -->
+     
     <!--Footer-->
 	<section id="kapcsolat" style="padding:50px 0;">
 	
@@ -106,12 +134,13 @@
     <div id="kapcsolat" class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
+                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/eloadas-2015-01-23-szaturnusz/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
                 <br /><br />
 
                 <!--kontakt-->
                 <?php include '../../assets/inc/kontakt.php';?>
                 <!--/kontakt-->
-				                
+
                 </div>
             </div>
         </div>
