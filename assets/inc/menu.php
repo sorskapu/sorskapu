@@ -40,7 +40,7 @@
                         <ul class="dropdown-menu">
                             <li><a href="/asztrologia/jelentkezes/">Jelentkezés asztrológiai elemzésre</a></li>
                             <li class="divider"></li>
-                            <li class="dropdown-header" style="color:#00a2ff;">Asztrológiai időjárás-jelentés</li>
+                            <li class="dropdown-header" style="color:#00a2ff;">Előadások</li>
                             <li><a href="/asztrologia/eloadas-2015-01-23-szaturnusz/">Előadás a Szaturnuszról</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Asztrológiai időjárás-jelentés</li>
