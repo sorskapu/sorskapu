@@ -84,7 +84,7 @@
 	</header>
     <!--/Header -->
 	
-    <!--Asztrológia / 2012 - 2015. | Uránusz - Plútó quadrát-->
+    <!--Asztrológia / Előadás a Szaturnuszról-->
     <section id="tovabb" style="padding:50px 0;">
 	
         <div class="container">
@@ -97,11 +97,13 @@
                 
                     <div class="panel panel-default">
                     <div class="panel-body">
+                    <section id="tovabb2" style="off padding:50px 0;">
                     <div class="cognito">
                     <script src="https://services.cognitoforms.com/include/required"></script>
                     <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
                     <script>Cognito.load("forms", { id: "4" });</script>
                     </div>
+                    </section>
                     </div>
                     </div>  
                 
@@ -115,7 +117,7 @@
         <!-- /.container -->
 		
     </section>
-	<!--/Asztrológia / 2012 - 2015. | Uránusz - Plútó quadrát-->
+	<!--/Asztrológia / Előadás a Szaturnuszról-->
 	
 	<!-- FB Comments -->
 	    <div class="container">
