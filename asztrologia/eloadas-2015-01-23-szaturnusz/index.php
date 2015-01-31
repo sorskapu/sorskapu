@@ -75,7 +75,7 @@
     <!--Header -->
     <header id="top" class="header_eloadas-001">
         <div class="text-vertical-center">
-            <h4 class="btn btn-dark btn-lg" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;"><a href="#tovabb">Előadás a Szaturnuszról - Ajánló</a></h4>
+            <a href="#tovabb" class="btn btn-dark btn-lg guru" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;">Előadás a Szaturnuszról - Ajánló</a></h4>
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb2" class="btn btn-dark btn-lg guru">Megrendelés</a><br /><br />
