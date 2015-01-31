@@ -97,7 +97,7 @@
                 
                     <div class="panel panel-default">
                     <div class="panel-body">
-                    <section id="tovabb2" style="off padding:50px 0;">
+                    <section id="tovabb2" style="padding:100px 0;">
                     <div class="cognito">
                     <script src="https://services.cognitoforms.com/include/required"></script>
                     <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
