@@ -73,7 +73,7 @@
 	<!--/Menu-->
 
     <!--Sorskapu Hírlevél-->
-    <section style="padding:100px 0;">
+    <section style="padding:200px 0;">
 	
         <div class="container">
             <div class="row">
@@ -94,7 +94,7 @@
 <form action="//sorskapu.us9.list-manage.com/subscribe/post?u=d30b74903cf93470c03f58e04&amp;id=a9f5c76ac0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
     <h2>Iratkozz fel hírlevelünkre</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> kötelező kitölteni</div>
 <div class="mc-field-group">
     <label for="mce-FNAME">Név  <span class="asterisk">*</span>
 </label>
@@ -110,7 +110,7 @@
         <div class="response" id="mce-success-response" style="display:none"></div>
     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_d30b74903cf93470c03f58e04_a9f5c76ac0" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Feliratkozás" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
