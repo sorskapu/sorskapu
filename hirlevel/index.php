@@ -19,7 +19,7 @@
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Sorskapu Hírlevél" />
     <meta property="og:description" content="Ha szeretnél figyelemmel kísérni minket, iratkozz fel hírlevelünkre." />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_sorskapu.jpg" />
+    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_hirlevel.jpg" />
     <!-- Facebook Like End -->
  
     <title>Sorskapu Hírlevél</title>
