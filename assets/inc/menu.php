@@ -78,6 +78,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kapcsolatok<b class="caret"></b></a>
                         <ul class="dropdown-menu">
+                            <li><a href="/hirlevel/" class="guru">Hírlevél</a></li>
                             <li><a href="/partnerek/" class="guru">Partnerek</a></li>
                             <li><a href="#kapcsolat" class="guru">Elérhetőség</a></li>
                             <!--<li class="divider"></li>-->
