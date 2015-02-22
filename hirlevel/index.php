@@ -93,7 +93,7 @@
 <div id="mc_embed_signup">
 <form action="//sorskapu.us9.list-manage.com/subscribe/post?u=d30b74903cf93470c03f58e04&amp;id=a9f5c76ac0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <h2>Iratkozz fel hírlevelünkre</h2>
+    <h2>Iratkozz fel hírlevelünkre!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> kötelező kitölteni</div>
 <div class="mc-field-group">
     <label for="mce-FNAME">Név  <span class="asterisk">*</span>
