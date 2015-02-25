@@ -19,7 +19,7 @@
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Sorskapu - Aktuális események" />
     <meta property="og:description" content="A lélek tudatalatti birodalmának idegenvezetői szeretettel várják kedves utasaikat." />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_sorskapu.jpg" />
+    <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/sorskapu/fb_sorskapu.jpg" />
     <!-- Facebook Like End -->
 
     <title>Sorskapu / Aktuális</title>
