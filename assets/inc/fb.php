@@ -1,5 +1,6 @@
 <br /><br />
-<center>KIS TÜRELMET ... AZ OLDAL TÖLTŐDIK</center>
+<center>KIS TÜRELMET KÉRÜNK, AZ OLDAL TÖLTŐDIK!</center>
+<center>https://s3-eu-west-1.amazonaws.com/sorskapu/loading.gif</center>
 <div style="text-align:center; margin:-50px 0 0 0;">
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/sorskapu/photos/a.664470416976819.1073741830.657598124330715/765134673577059/?type=1" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/sorskapu/photos/a.664470416976819.1073741830.657598124330715/765134673577059/?type=1">Post</a> by <a href="https://www.facebook.com/sorskapu">Sorskapu</a>.</div></div>
 <hr>
