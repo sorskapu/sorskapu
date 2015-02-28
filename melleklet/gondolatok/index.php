@@ -86,7 +86,7 @@
 	<!--/Header-->
 	
 	<!--Melléklet-Gondolatok-->
-	<section id="tovabb" style="padding:50px 0;">
+	<section id="tovabb" style="padding:100px 0;">
 	
 	<div class="container">
             <div class="row">
