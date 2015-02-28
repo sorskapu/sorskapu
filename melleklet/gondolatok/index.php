@@ -88,12 +88,12 @@
 	<!--Melléklet-Gondolatok-->
 	<section id="tovabb" style="padding:50px 0;">
 	
-	<div class="container" style="margin:50px 0;>
+	<div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
                 
                 <div class="panel panel-default">
-                <div class="panel-body">
+                <div class="panel-body" style="margin:50px 0;>
 
                 <?php include '../../assets/inc/fb.php';?>
 
