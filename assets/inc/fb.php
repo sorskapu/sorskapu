@@ -1,4 +1,4 @@
-<br /><br />
+<br /><br /><br /><br />
 <center>KIS TÜRELMET KÉRÜNK, AZ OLDAL TÖLTŐDIK!</center>
 <center><img class="img-responsive" style="padding:0 10px 0 10px;" src="https://s3-eu-west-1.amazonaws.com/sorskapu/sorskapu-loading.gif" /></center>
 <div style="text-align:center; margin:-150px 0 0 0;">
