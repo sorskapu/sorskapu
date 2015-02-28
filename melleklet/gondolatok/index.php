@@ -93,7 +93,7 @@
                 <div class="col-md-6 col-md-offset-3">
                 
                 <div class="panel panel-default">
-                <div class="panel-body" style="margin:50px 0;>
+                <div class="panel-body">
 
                 <?php include '../../assets/inc/fb.php';?>
 
