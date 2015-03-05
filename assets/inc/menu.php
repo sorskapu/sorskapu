@@ -71,7 +71,6 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kincsesláda<b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/kincseslada/szepes-maria-a-voros-oroszlan/">Szepes Mária - A Vörös Oroszlán</a></li>
                             <li><a href="/kincseslada/#peterorban">Peter Orban - A hős utazása</a></li>
                             <li><a href="/kincseslada/#card">Symbolon kellékek</a></li>
                             <!--<li class="divider"></li>-->

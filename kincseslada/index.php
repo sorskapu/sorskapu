@@ -254,20 +254,7 @@
                 </div><!-- /.panel .panel-default -->
 
                 </section>
-
-                <div class="panel panel-default">
-                <div class="panel-heading"><h2>Szepes Mária - A Vörös Oroszlán</h2></div>
-                <div class="panel-body">
                 
-                <div class="col-sm-12 col-md-12">
-                    <div class="thumbnail">
-                        
-                        <a href="/kincseslada/szepes-maria-a-voros-oroszlan/" alt="Szepes Mária - A Vörös Oroszlán" title="Szepes Mária - A Vörös Oroszlán"><img src="//cdn.sorskapu.hu/k-szepes-maria-a-voros-oroszlan.jpg" alt="Szepes Mária - A Vörös Oroszlán" /></a>
-                                                        
-                    </div><!-- /.thumbnail -->
-                </div><!-- /.col-sm-6 col-md-4 -->					
-				
-				</div><!-- /.col-lg-12 text-center-->
 				
 			</div><!-- /.row -->
         </div><!-- /.container -->
