@@ -78,6 +78,7 @@
 							    			    					
 								
 					<div class="well well-sm">
+                    <center><a href="http://larion.hu/" alt="Larion" title="Larion"><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/banner-larion.jpg" />LARION</a></center>
 					<!--<center><a href="http://szepesmariaalapitvany.hu/" alt="Szepes Mária Alapítvány" title="Szepes Mária Alapítvány"><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/banner-szepes-maria-alapitvany.jpg" /></a></center>-->
 					
 					</div>
