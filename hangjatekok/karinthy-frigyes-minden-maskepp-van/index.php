@@ -63,7 +63,7 @@
     <!--Header -->
     <header id="top" class="header_hangjatek-001">
         <div class="text-vertical-center">
-            <h4 style="margin-top:100px;" class="btn btn-dark btn-lg">Kapcsolatok</h4>
+            <h4 style="margin-top:100px;" class="btn btn-dark btn-lg">Karinthy Frigyes - Minden másképp van</h4>
 			<div style="clear: both;"></div>
 			<br />
 			<a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
