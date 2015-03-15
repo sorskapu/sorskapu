@@ -77,6 +77,13 @@
                         </ul>
                 </li>
                 <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hangjátékok<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru">Karinthy Frigyes - Minden másképp van</a></li>
+                            <!--<li class="divider"></li>-->
+                        </ul>
+                </li>
+                <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kapcsolatok<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="/hirlevel/" class="guru">Hírlevél</a></li>
