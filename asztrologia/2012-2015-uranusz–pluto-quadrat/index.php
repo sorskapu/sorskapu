@@ -66,7 +66,7 @@
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2012-2015-uranusz–pluto-quadrat/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			<div class="fb-like" data-href="http://sorskapu.hu/asztrologia/2012-2015-uranusz–pluto-quadrat/" data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
     <!--/Header -->
