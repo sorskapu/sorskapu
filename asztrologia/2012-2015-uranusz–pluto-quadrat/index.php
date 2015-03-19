@@ -126,7 +126,7 @@
     <div id="kapcsolat" class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/2012-2015-uranusz–pluto-quadrat/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                <div class="fb-like" data-href="http://sorskapu.hu/asztrologia/2012-2015-uranusz–pluto-quadrat/" data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
                 <br /><br />
 
                 <!--kontakt-->
