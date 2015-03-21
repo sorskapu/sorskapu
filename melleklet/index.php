@@ -93,15 +93,7 @@
                     <p>Biztonságra vágyom. Miért? És mi is az tulajdonképpen? Egy emlék. Egy kiragadott részlet az életemből. Amikor még édesanyám testében-lelkében voltam és körülölelt valami puha melegség, ami állandónak tűnt.</p>
                 </div>
                 </div>
-
-				<div class="media">
-                    <a class="pull-left" href="kapcsolatok/"><img class="media-object" src="//cdn.sorskapu.hu/ml-kapcsolatok.jpg" alt="Peter Orban - Kapcsolatok"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="kapcsolatok/" alt="Peter Orban - Kapcsolatok">Kapcsolatok</a></h4>
-                    <p>Ez a történet egy álomvilágban játszódik. Két személy találkozik a világegyetemben, a fényhez vezető útjukon. Peter Orban Kapcsolatok című írásának feldolgozása.</p>
-                </div>
-                </div>
-				
+					
 				<div class="media">
                     <a class="pull-left" href="mert-most-tukor-altal-homalyosan-latunk/"><img class="media-object" src="//cdn.sorskapu.hu/ml-tukor-altal-homalyosan.jpg" alt="Kerekes Andrea - Mert most tükör által homályosan látunk"></a>
                 <div class="media-body">

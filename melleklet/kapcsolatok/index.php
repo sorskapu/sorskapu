@@ -63,7 +63,7 @@
     <!--Header -->
     <header id="top" class="header_m-kapcsolatok">
         <div class="text-vertical-center">
-            <h4 style="margin-top:100px;" class="btn btn-dark btn-lg"><a href="../#tovabb">Melléklet</a> / Kapcsolatok</h4>
+            <h4 style="margin-top:100px;" class="btn btn-dark btn-lg">Kapcsolatok</h4>
 			<div style="clear: both;"></div>
 			<br />
 			<a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
