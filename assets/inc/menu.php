@@ -80,10 +80,10 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hangjátékok<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header" style="color:#00a2ff;">Bert Hellinger</li>
-                            <li><a href="/hangjatekok/bert-hellinger-mese-a-duhos-kismajomrol/" class="guru">Bert Hellinger - Mese a dühös kismajomról</a></li>
+                            <li><a href="/hangjatekok/bert-hellinger-mese-a-duhos-kismajomrol/" class="guru">Mese a dühös kismajomról</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Karinthy Frigyes</li>
-                            <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru">Karinthy Frigyes - Minden másképp van</a></li>
+                            <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru">Minden másképp van</a></li>
                             <!--<li class="divider"></li>-->
                         </ul>
                 </li>
