@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A lélek tudatalatti birodalmának idegenvezetői szeretettel várják kedves utasaikat.">
 	<meta name="keywords" content="családfelállítás, családállítás, morfogenetikus mező, asztrológia, sámánizmus, terápia, Peter Orban, Kerekes Andrea, Bert Hellinger, hangjáték, hangfürdő, lélek, lelki probléma, tudatalatti, spirituális, egyéni állítás, csoportos terápia, Rupert Sheldrake, szellemi mező, pszi mező, módosult tudatállapot, párkapcsolat, betegségek lelki okai, ezotéria, öngyilkosság, trauma, válás, szakítás, ezoterikus előadás, egészség, harmónia, megoldás, gyógyító módszer, Symbolon">
+    <meta name="google-site-verification" content="j-fhunK0mogFV8_d9GdflfGG0Wu0VqSWjexhudBvkqE" />
     <link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
 
 	<!-- Facebook -->
