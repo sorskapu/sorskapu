@@ -21,7 +21,7 @@
                             <li><a href="/magunkrol/">Magunkról</a></li>
                             <li><a href="/csaladfelallitas/">Családállítás</a></li>
                             <li><a href="/asztrologia/">Asztrológia</a></li>
-                            <li class="disabled"><a href="#">Symbolon</a></li>
+                            <li><a href="/symbolon/">Symbolon</a></li>
                             <li class="disabled"><a href="#">Párterápia</a></li>
                             <li class="disabled"><a href="#">Egyéni terápia</a></li>
                         </ul>
@@ -33,6 +33,12 @@
                             <li class="divider"></li>
                             <li><a href="/csaladfelallitas/">A családállításról</a></li>
                             <!--<li><a href="/csaladfelallitas/ujabb-gondolatok-a-temaban/">Újabb gondolatok a témában</a></li>-->
+                        </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Symbolon <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/symbolon/">JSymbolon tanfolyam</a></li>
                         </ul>
                 </li>
                  <li class="dropdown">
@@ -83,7 +89,9 @@
                             <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
                             <li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk</a></li>
                             <li><a href="/melleklet/a-gondolat-teremto-hatalma/">A gondolat teremtő hatalma</a></li>
-                            <li><a href="/melleklet/gondolatok/">Gondolatok (Facebook kivonat)</a></li>
+                            <li class="divider"></li>
+                            <li class="dropdown-header" style="color:#00a2ff;">GONDOLATOK</li>
+                            <li><a href="/melleklet/gondolatok/">Facebook kivonat<br />(lassú betöltés; lájkolj inkább)</a></li>
 
                         </ul>
                 </li>

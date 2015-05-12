@@ -7,22 +7,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Peter Orbannál végeztem mint asztrológus. A horoszkóp olvasásakor elsősorban arra figyelek, hogyan válhatunk egyre tudatosabbá.">
-	<meta name="keywords" content="asztrológia, Peter Orban, Kerekes Andrea, horoszkóp, radix, aszcendens, tranzit, égi jelek, ezotéria, medium coeli, együttállás, szembenállás, quadrát, szinasztria, előrejelzés, kompozit, Plútó, Szaturnusz, sors, telihold, Nap, sárkányfej, sárkányfarok, Hold, Uránusz, Neptunusz, Mars, Vénusz, Merkúr, Jupiter,">
+	<meta name="keywords" content="Symbolon, Peter Orban, Kerekes Andrea, emlékezés játéka, horoszkóp, radix, aszcendens, tranzit, égi jelek, ezotéria, medium coeli, együttállás, szembenállás, quadrát, szinasztria, előrejelzés, kompozit, Plútó, Szaturnusz, sors, telihold, Nap, sárkányfej, sárkányfarok, Hold, Uránusz, Neptunusz, Mars, Vénusz, Merkúr, Jupiter,">
     <link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
 	
 	<!-- Facebook -->
 	<meta property="fb:app_id" content="1459644830989485" />
     <meta property="fb:admins" content="100000956925477"/>
-    <meta property="og:url" content="http://www.sorskapu.hu/asztrologia/"/>
+    <meta property="og:url" content="http://www.sorskapu.hu/symbolon/"/>
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
-	<meta property="og:title" content="Sorskapu / Asztrológia" />
+	<meta property="og:title" content="Sorskapu / Symbolon" />
     <meta property="og:description" content="Peter Orbannál végeztem mint asztrológus. A horoszkóp olvasásakor elsősorban arra figyelek, hogyan válhatunk egyre tudatosabbá." />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_asztrologia.jpg" />
+    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_symbolon.jpg" />
     <!-- Facebook Like End -->
 
-    <title>Sorskapu / Asztrológia</title>
+    <title>Sorskapu / Symbolon</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -62,118 +62,71 @@
     <!--Header-->
     <header id="top" class="header_asztrologia">
         <div class="text-vertical-center">
-            <h3 style="margin-top:100px;">Asztrológia<br /></h3>
+            <h3 style="margin-top:100px;">Symbolon<br /></h3>
 			<br />
-			<a href="#tovabb" class="btn btn-dark btn-lg guru">Asztrológiai időjárásjelentés</a><br /><br />
-            <a href="#tovabb2" class="btn btn-dark btn-lg guru">Asztrológiai írások</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br /><br />
-            <a href="http://sorskapu.hu/asztrologia/jelentkezes/" class="btn btn-dark btn-lg">Jelentkezés</a>
+			<a href="#tovabb" class="btn btn-dark btn-lg guru">Tanfolyam</a><br /><br />
+            <a href="#tovabb2" class="btn btn-dark btn-lg guru">Jelentkezés a tanfolyamra</a><br /><br />
+            <!--<a href="#tovabb2" class="btn btn-dark btn-lg guru">Sybolon terápia</a><br /><br />-->
+			<div class="fb-like" data-href="http://www.sorskapu.hu/symbolon/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br /><br />
         </div>
 	</header>
 	<!--/Header-->
      
-	<!--Asztrológiai cikkek-->
-	<section>
+	<!--Symbolon tanfolyam-->
+	<section id="tovabb">
 	
 	<div class="container">
         <div class="row">
             <div class="col-lg-12">
 
-                <!--Idõjárás-jelentés-->
-                <section id="tovabb" style="padding:50px 0;">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><h2>Symbolon tanfolyam</h2></div>
+                    <div class="panel-body">
+                    <p class="lead" style="text-align:justify;">Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen!</p>
+                    <p class="lead" style="text-align:justify;">Miben más ez?</p>
+                    <p class="lead" style="text-align:justify;">A tanulás során Dr. Peter Orban német pszichológus professzor Symbolon kártyáit használjuk, mert a képek segítségével nemcsak könnyebben megértjük, hanem hamarabb belénk is rögzül minden asztrológiával kapcsolatos információ.</p>
+                    <p class="lead" style="text-align:justify;">Miközben a képekről beszélgetünk, saját tudatalattink kapuja nyílik meg, s ezáltal tudatossá válik az, ami eddig rejtve volt előttünk. A Symbolont az emlékezés játékának is nevezzük, hiszen e lelki munka során különféle személyes élményeink kerülnek elő, melyek jó alapot biztosítanak ahhoz, hogy felmerülő témáinkkal tovább dolgozzunk, akár másfajta terápiás módszerek segítségével is.</p>
+                    <p class="lead" style="text-align:justify;">Tehát a Symbolon - amellett, hogy bevezet minket a horoszkópfejtés izgalmas világába - elsősorban a lelkünkre hat, az érzelmeinket mozgatja meg. </p>
+                    <p class="lead" style="text-align:justify;">A képek a jobb agyféltekén keresztül jutnak el hozzánk, érzelmeinket is ehhez az agyféltekéhez kapcsoljuk, míg íráshoz, olvasáshoz, beszédhez, tanuláshoz a bal agyféltekét használjuk. A tanult anyagnak akkor vesszük igazán hasznát, ha tanulás közben mind a két agyféltekét megdolgoztatjuk.</p>
+                    <p class="lead" style="text-align:justify;">A tanfolyam elvégzése során nagyobb önismeretre, s jobb emberismeretre teszel szert, ennek következtében könnyebben eligazodsz majd a hétköznapok világában is, valamint tisztázol magadban olyan kérdéseket, melyek csakis veled, a saját személyiségrészeiddel kapcsolatosak. Megismerkedsz titkos mozgatórugóiddal, ösztöneiddel, hajlamaiddal, saját árnyékszemélyiségeddel. Feltárul előtted az is, hogy milyen feladatokat vállaltál ebben az életben, pontosabban az, hogy milyen irányban érdemes továbbhaladnod.</p>
+                    <p class="lead" style="text-align:justify;">Mivel sok érdeklődő vidéki, a tanfolyam hanganyagát rendszeresen rögzítjük, majd online tanfolyam keretében adjuk tovább. Ez a lehetőség természetesen nemcsak a vidékiek számára adott. Bárki csatlakozhat hozzánk online és személyesen egyaránt, amennyiben meghallgatta azokat az előadásokat, amin mi aktuális esetben már túl vagyunk.</p>
+                    <p class="lead" style="text-align:justify;">Az online tanfolyam keretein belül Skype-on biztosítok konzultációs lehetőséget, ahol feltehetitek a kérdéseiteket, egy előre megbeszélt időpontban.</p>
+                    <p class="lead" style="text-align:justify;">Aktuális tanfolyamunk 2015. április 24-én indult, Budapesten. Kéthetente (pénteken) találkozunk, s 17 órától 21 óráig tanulunk.</p>
+                    <p class="lead" style="text-align:justify;">A tandíj: 1500 Ft + áfa óránként. (Értelemszerűen egy alkalom így bruttó 7500 Ft-ba kerül.)</p>
+                    <p class="lead" style="text-align:justify;">Szeretettel várom jelentkezéseiteket!</p>
+                    <p class="lead" style="text-align:justify;">Kerekes Andrea<br />Okleveles asztrológus</p>
+                    <p class="lead" style="text-align:justify;"><center><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/kerekes-andrea-asztrologus-kepzes-oklevel.jpg" /></center></p>
+                    </div>
+                    </div>
 
-                <div class="panel panel-danger">
-                <div class="panel-heading">Asztrológiai idõjárás-jelentés</div>
+    </section>
+    <section id="tovabb2">
+
+                <div class="col-md-6 col-md-offset-3">
+                
+                <div class="panel panel-default">
                 <div class="panel-body">
-                Asztrológiai időjárás-jelentés című sorozatunkban lelkünk tájain barangolunk. S annak ellenére, hogy a múzsa minden esetben egy éppen aktuális bolygóállás, írásaink mondanivalója örökérvényű. Ezért ha ez a mostani adás tetszeni fog, nyugodtan olvasd el vagy hallgasd meg az előzőeket is, és ne törődj a dátumokkal!
+                <div class="cognito">
+                    <script src="https://services.cognitoforms.com/include/required"></script>
+                    <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
+                    <script>Cognito.load("forms", { id: "5" });</script>
                 </div>
                 </div>
-
-                <div class="media">
-                    <a class="pull-left" href="2014-november-11-mars-pluto-egyuttallas/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-007.jpg" alt="Asztrológiai időjárásjelentés: 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-november-11-mars-pluto-egyuttallas/" alt="Asztrológiai időjárás-jelentés: 2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás">2014. november 11. (hatása nov. 7-14.) | Mars - Plútó együttállás</a></h4>
-                    <p>Hideg időben, sötét, haragos és erőszakos hullámok között kell megtalálnunk a meleget és a világosságot.</p>
                 </div>
                 </div>
-
-                <div class="media">
-                    <a class="pull-left" href="2014-oktober-nap-pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-003.jpg" alt="Asztrológiai időjárásjelentés: 2014. október 4. | Nap - Plútó quadrát"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-oktober-nap-pluto-quadrat/" alt="Asztrológiai időjárás-jelentés: 2014. október 4. | Nap - Plútó quadrát">2014. október 4. | Nap - Plútó quadrát</a></h4>
-                    <p>Sötétebbek lesznek most a nappalok és hosszabbak az éjszakák. Ólmos nehézség üli meg a levegőt. Hideg és dermedt idő várható.</p>
-                </div>
-                </div>
-				
-				<div class="media">
-                    <a class="pull-left" href="2014-szeptember-oktober-nap-a-merlegben/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-002.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember-október | Nap a Mérlegben"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-szeptember-oktober-nap-a-merlegben/" alt="Asztrológiai időjárás-jelentés: 2014. szept. 22 - okt. 24. | Nap a Mérlegben">2014. szept. 22 - okt. 24. | Nap a Mérlegben</a></h4>
-                    <p>Napsütéses, meleg idő várható, kellemes, lágy fuvallatok kíséretében. Éjszakánként rengeteg csillag ragyog majd az égen.</p>
-                </div>
-                </div>
-				
-				<div class="media">
-                    <a class="pull-left" href="2014-szeptember-mars-neptunusz-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-001.jpg" alt="Asztrológiai időjárásjelentés: 2014. szeptember | Mars - Neptunusz quadrát"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="2014-szeptember-mars-neptunusz-quadrat/" alt="Asztrológiai időjárás-jelentés: 2014. szeptember 22. | Mars - Neptunusz quadrát">2014. szeptember 22. | Mars - Neptunusz quadrát</a></h4>
-                    <p>Ködös idő várható. Helyenként előfordulhatnak nem várt, rövid életű viharok.</p>
-                </div>
-                </div>
-
-                </section>
-                
-                <!--Írások-->
-                <section id="tovabb2" style="padding:50px 0;">
-
-                <div class="alert alert-info" role="alert">Asztrológiai írások</div>
-
-                <div class="media">
-                    <a class="pull-left" href="a-bennunk-szuleto-feny/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-008.jpg" alt="Asztrológiai írások: A bennünk születő fény"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="a-bennunk-szuleto-feny/" alt="Asztrológiai írások: A bennünk születő fény">A bennünk születő fény</a></h4>
-                    <p>Öt bolygó a Bakban, sok-sok energia csoportosul egy helyen, egy időben. Gazdag és változatos élményekben lehet részünk.</p>
-                </div>
-                </div>
-
-                <div class="media">
-                    <a class="pull-left" href="telihold/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-006.jpg" alt="Asztrológiai írások: Telihold"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="telihold/" alt="Asztrológiai írások: Telihold">Telihold</a></h4>
-                    <p>Azt nevezzük teliholdnak, amikor a Nap és a Hold szemben állnak az égen. Azaz két teljesen eltérő energia folytat küzdelmet egymással a lelkünkben.</p>
-                </div>
-                </div>
-
-                <div class="media">
-                    <a class="pull-left" href="2012-2015-uranusz–pluto-quadrat/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-004.jpg" alt="Asztrológiai írások: 2012 - 2015. | Uránusz - Plútó quadrát"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="2012-2015-uranusz–pluto-quadrat/" alt="Asztrológiai írások: 2012 - 2015 | Uránusz - Plútó quadrát">2012 - 2015. | Uránusz - Plútó quadrát</a></h4>
-                    <p>A Plútó és az Uránusz jelenleg derékszöget alkotnak egymással. Ez tehát az újjászületés időszaka.</p>
-                </div>
-                </div>
-
-                <div class="media">
-                    <a class="pull-left" href="a-nap-a-rendezoi-utasitas/"><img class="media-object" src="//cdn.sorskapu.hu/asztrologia-l-005.jpg" alt="Asztrológiai írások: A Nap - a rendezői utasítás"></a>
-                <div class="media-body">
-                    <h4 class="media-heading"><a href="a-nap-a-rendezoi-utasitas/" alt="Asztrológiai írások: A Nap - a rendezői utasítás">A Nap - a rendezői utasítás</a></h4>
-                    <p>Az ember csak akkor adja fel a saját tökéletességébe vetett hitét, ha beleesik egója csapdájába. Csak akkor hajlandó önmagába nézni, ha a külvilágban már nincs más megoldási lehetőség.</p>
-                </div>
-                </div>
-                
-                </section>
 												
             </div>
         </div>
     </div>
 	
 	</section>
-	<!--/Asztrológiai cikkek-->
+	<!--/Symbolon tanfolyam-->
 
     <!-- FB Comments -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <div class="fb-comments" data-href="http://www.sorskapu.hu/asztrologia/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+                    <div class="fb-comments" data-href="http://www.sorskapu.hu/symbolon/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
                 </div>
             </div>                                                                                      
         </div>
@@ -186,7 +139,7 @@
     <div id="kapcsolat" class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                <div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                <div class="fb-like" data-href="http://www.sorskapu.hu/symbolon/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
                 <br /><br />
 
                     <!--kontakt-->
