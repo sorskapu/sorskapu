@@ -64,9 +64,9 @@
                         <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
 						<li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk</a></li>
 						<li><a href="/melleklet/a-gondolat-teremto-hatalma/">A gondolat teremtő hatalma</a></li>
-                        <li class="divider"></li>-->
+                        <li class="divider"></li>
                         </ul>
-                </li>
+                </li>-->
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kincsesláda<b class="caret"></b></a>
                         <ul class="dropdown-menu">
@@ -98,9 +98,9 @@
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Peter Orban</li>
                             <li><a href="/melleklet/kapcsolatok/">Kapcsolatok</a></li>
-                            <li class="divider"></li>-->
+                            <li class="divider"></li>
                         </ul>
-                </li>
+                </li>-->
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kapcsolatok<b class="caret"></b></a>
                         <ul class="dropdown-menu">
