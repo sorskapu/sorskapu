@@ -91,7 +91,7 @@
                             <li><a href="/melleklet/a-gondolat-teremto-hatalma/">A gondolat teremtő hatalma</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">GONDOLATOK</li>
-                            <li><a href="/melleklet/gondolatok/">Facebook kivonat<br />(lassú betöltés; lájkolj inkább)</a></li>
+                            <li><a href="/melleklet/gondolatok/">Facebook kivonat<br />(lassú betöltés; lájkolj inkább!)</a></li>
 
                         </ul>
                 </li>
