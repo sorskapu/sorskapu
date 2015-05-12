@@ -61,10 +61,8 @@
 
     <!--Header-->
     <header id="top" class="header_symbolon">
-        <div class="text-vertical-center">
-            <h3 style="margin-top:100px;">Symbolon<br /></h3>
-			<br />
-			<a href="#tovabb" class="btn btn-dark btn-lg guru">Tanfolyam</a><br /><br />
+        <div class="text-vertical-center" style="margin-top:100px;">
+            <a href="#tovabb" class="btn btn-dark btn-lg guru">Symbolon tanfolyam</a><br /><br />
             <a href="#tovabb2" class="btn btn-dark btn-lg guru">Jelentkezés a tanfolyamra</a><br /><br />
             <!--<a href="#tovabb2" class="btn btn-dark btn-lg guru">Sybolon terápia</a><br /><br />-->
 			<div class="fb-like" data-href="http://www.sorskapu.hu/symbolon/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br /><br />
@@ -104,7 +102,7 @@
 
                 <div class="col-md-6 col-md-offset-3">
                 
-                <div class="panel panel-default">
+                <div class="panel panel-default" style="margin-top:100px;">
                 <div class="panel-body">
                 <div class="cognito">
                     <script src="https://services.cognitoforms.com/include/required"></script>

@@ -38,7 +38,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Symbolon <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/symbolon/">JSymbolon tanfolyam</a></li>
+                            <li><a href="/symbolon/">Symbolon tanfolyam</a></li>
                         </ul>
                 </li>
                  <li class="dropdown">
