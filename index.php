@@ -137,7 +137,7 @@
         <h3 class="text-center" style="margin:0 0 20px 0;"><a href="/asztrologia/jelentkezes/">JELENTKEZÉSI LAP</a></h3>
 
         <h2 class="text-center bg-info" style="margin:50px 0 0 0;">III. Symbolon tanfolyam</h2>
-        <h4 class="text-center" style="margin:20px 0 0 0;">Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen! <br />Aktuális tanfolyamunk 2015. április 24-én indult, Budapesten. Kéthetente (pénteken) találkozunk, s 17 órától 21 óráig tanulunk. <br />A tandíj: 1500 Ft + áfa óránként. (Értelemszerűen egy alkalom így bruttó 7500 Ft-ba kerül.)<br /><br />Ha szeretnél szeretnél részt venni a tanfolyamon, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
+        <h4 class="text-center" style="margin:20px 0 0 0;">Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen! <br />Aktuális tanfolyamunk 2015. április 24-én indult, Budapesten. Kéthetente (pénteken) találkozunk és 17 órától 21 óráig tanulunk. <br />A tandíj: 1500 Ft + áfa óránként. (Értelemszerűen egy alkalom így bruttó 7500 Ft-ba kerül.)<br /><br />Ha szeretnél szeretnél részt venni a tanfolyamon, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
         <h3 class="text-center" style="margin:0 0 20px 0;"><a href="/symbolon/#tovabb2">JELENTKEZÉSI LAP</a></h3>
 
 		</div>

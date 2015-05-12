@@ -89,10 +89,10 @@
                     <p class="lead" style="text-align:justify;">A tanfolyam elvégzése során nagyobb önismeretre, s jobb emberismeretre teszel szert, ennek következtében könnyebben eligazodsz majd a hétköznapok világában is, valamint tisztázol magadban olyan kérdéseket, melyek csakis veled, a saját személyiségrészeiddel kapcsolatosak. Megismerkedsz titkos mozgatórugóiddal, ösztöneiddel, hajlamaiddal, saját árnyékszemélyiségeddel. Feltárul előtted az is, hogy milyen feladatokat vállaltál ebben az életben, pontosabban az, hogy milyen irányban érdemes továbbhaladnod.</p>
                     <p class="lead" style="text-align:justify;">Mivel sok érdeklődő vidéki, a tanfolyam hanganyagát rendszeresen rögzítjük, majd online tanfolyam keretében adjuk tovább. Ez a lehetőség természetesen nemcsak a vidékiek számára adott. Bárki csatlakozhat hozzánk online és személyesen egyaránt, amennyiben meghallgatta azokat az előadásokat, amin mi aktuális esetben már túl vagyunk.</p>
                     <p class="lead" style="text-align:justify;">Az online tanfolyam keretein belül Skype-on biztosítok konzultációs lehetőséget, ahol feltehetitek a kérdéseiteket, egy előre megbeszélt időpontban.</p>
-                    <p class="lead" style="text-align:justify;">Aktuális tanfolyamunk 2015. április 24-én indult, Budapesten. Kéthetente (pénteken) találkozunk, s 17 órától 21 óráig tanulunk.</p>
+                    <p class="lead" style="text-align:justify;">Aktuális tanfolyamunk 2015. április 24-én indult, Budapesten. Kéthetente (pénteken) találkozunk és 17 órától 21 óráig tanulunk.</p>
                     <p class="lead" style="text-align:justify;">A tandíj: 1500 Ft + áfa óránként. (Értelemszerűen egy alkalom így bruttó 7500 Ft-ba kerül.)</p>
                     <p class="lead" style="text-align:justify;">Szeretettel várom jelentkezéseiteket!</p>
-                    <p class="lead" style="text-align:justify;">Kerekes Andrea<br />Okleveles asztrológus</p>
+                    <p class="lead" style="text-align:justify;">Kerekes Andrea<br />okleveles asztrológus</p>
                     <p class="lead" style="text-align:justify;"><center><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/kerekes-andrea-asztrologus-kepzes-oklevel.jpg" /></center></p>
                     </div>
                     </div>
