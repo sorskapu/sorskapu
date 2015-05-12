@@ -11,7 +11,7 @@
         </div>
         
 		<div class="collapse navbar-collapse" id="sorskapu-navbar-collapse">
-            <ul class="nav navbar-nav navbar-left scrollable-menu">
+            <ul class="nav navbar-nav navbar-left">
 			    
                 <!--<li><a href="/">Programok</a></li>-->
                 
@@ -37,7 +37,7 @@
                 </li>
                  <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Asztrológia <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
+                        <ul class="dropdown-menu scrollable-menu">
                             <li><a href="/asztrologia/jelentkezes/">Jelentkezés asztrológiai elemzésre</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Előadások</li>
