@@ -80,7 +80,7 @@
                 <div class="panel panel-default" style="margin-top:100px;">
                     <div class="panel-heading"><h2>Symbolon tanfolyam</h2></div>
                     <div class="panel-body">
-                    <p class="lead" style="text-align:justify;">Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen!</p>
+                    <p class="lead" style="text-align:justify;">Symbolon tanfolyamunkra folyamatosan várjuk azok <a href="#tovabb2" class="guru" title="Jelentkezés Symbolon tanfolyamra" alt="Jelentkezés Symbolon tanfolyamra">jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen!</p>
                     <p class="lead" style="text-align:justify;">Miben más ez?</p>
                     <p class="lead" style="text-align:justify;">A tanulás során Dr. Peter Orban német pszichológus professzor Symbolon kártyáit használjuk, mert a képek segítségével nemcsak könnyebben megértjük, hanem hamarabb belénk is rögzül minden asztrológiával kapcsolatos információ.</p>
                     <p class="lead" style="text-align:justify;">Miközben a képekről beszélgetünk, saját tudatalattink kapuja nyílik meg, s ezáltal tudatossá válik az, ami eddig rejtve volt előttünk. A Symbolont az emlékezés játékának is nevezzük, hiszen e lelki munka során különféle személyes élményeink kerülnek elő, melyek jó alapot biztosítanak ahhoz, hogy felmerülő témáinkkal tovább dolgozzunk, akár másfajta terápiás módszerek segítségével is.</p>
