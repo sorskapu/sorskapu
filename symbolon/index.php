@@ -60,7 +60,7 @@
 	<!--/Menu-->
 
     <!--Header-->
-    <header id="top" class="header_asztrologia">
+    <header id="top" class="header_symbolon">
         <div class="text-vertical-center">
             <h3 style="margin-top:100px;">Symbolon<br /></h3>
 			<br />
