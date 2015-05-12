@@ -75,9 +75,9 @@
                             <li><a href="/kincseslada/#card">Symbolon kellékek</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">HANGJÁTÉKOK</li>
-                            <li><a href="/hangjatekok/bert-hellinger-mese-a-duhos-kismajomrol/" class="guru">Bert Hellinger <br />Mese a dühös kismajomról</a></li>
-                            <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru">Karinthy Frigyes <br/>Minden másképp van</a></li>
-                            <li><a href="/melleklet/kapcsolatok/">Peter Orban<br/>Kapcsolatok</a></li>
+                            <li><a href="/hangjatekok/bert-hellinger-mese-a-duhos-kismajomrol/" class="guru"><b>Bert Hellinger</b> <br />Mese a dühös kismajomról</a></li>
+                            <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru"><b>Karinthy Frigyes</b> <br />Minden másképp van</a></li>
+                            <li><a href="/melleklet/kapcsolatok/"><b>Peter Orban</b> <br />Kapcsolatok</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">MELLÉKLET</li>
                             <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
