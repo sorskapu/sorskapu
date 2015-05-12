@@ -11,7 +11,7 @@
         </div>
         
 		<div class="collapse navbar-collapse" id="sorskapu-navbar-collapse">
-            <ul class="nav navbar-nav navbar-left">
+            <ul class="nav navbar-nav navbar-left scrollable-menu">
 			    
                 <!--<li><a href="/">Programok</a></li>-->
                 

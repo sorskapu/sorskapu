@@ -558,3 +558,9 @@ height: 100%;
 .btn {
     white-space: normal;
 }
+
+/* Custom - scrollable-menu */
+.scrollable-menu {
+    max-height : 200px;
+    overflow-y : auto;  
+}
