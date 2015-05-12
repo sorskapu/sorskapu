@@ -67,7 +67,7 @@
                         <li class="divider"></li>
                         </ul>
                 </li>-->
-                <li class="dropdown">
+                <li class="dropdown scroll-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kincsesláda<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header" style="color:#00a2ff;">WEBSHOP</li>
