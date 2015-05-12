@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Peter Orbannál végeztem mint asztrológus. A horoszkóp olvasásakor elsősorban arra figyelek, hogyan válhatunk egyre tudatosabbá.">
+    <meta name="description" content="Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen!">
 	<meta name="keywords" content="Symbolon, Peter Orban, Kerekes Andrea, emlékezés játéka, horoszkóp, radix, aszcendens, tranzit, égi jelek, ezotéria, medium coeli, együttállás, szembenállás, quadrát, szinasztria, előrejelzés, kompozit, Plútó, Szaturnusz, sors, telihold, Nap, sárkányfej, sárkányfarok, Hold, Uránusz, Neptunusz, Mars, Vénusz, Merkúr, Jupiter,">
     <link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
 	
@@ -18,7 +18,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Sorskapu / Symbolon" />
-    <meta property="og:description" content="Peter Orbannál végeztem mint asztrológus. A horoszkóp olvasásakor elsősorban arra figyelek, hogyan válhatunk egyre tudatosabbá." />
+    <meta property="og:description" content="Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen!" />
     <meta property="og:image" content="http://cdn.sorskapu.hu/fb_symbolon.jpg" />
     <!-- Facebook Like End -->
 
