@@ -36,12 +36,6 @@
                         </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Symbolon <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="/symbolon/">Symbolon tanfolyam</a></li>
-                        </ul>
-                </li>
-                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Asztrológia <b class="caret"></b></a>
                         <ul class="dropdown-menu scrollable-menu">
                             <li><a href="/asztrologia/jelentkezes/">Jelentkezés asztrológiai elemzésre</a></li>
@@ -60,6 +54,12 @@
                             <li><a href="/asztrologia/telihold/">Telihold</a></li>
                             <li><a href="/asztrologia/2012-2015-uranusz–pluto-quadrat/">2012 - 2015. | Uránusz - Plútó quadrát</a></li>
                             <li><a href="/asztrologia/a-nap-a-rendezoi-utasitas/">A Nap - a rendezői utasítás</a></li>                               
+                        </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Symbolon <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/symbolon/">Symbolon tanfolyam</a></li>
                         </ul>
                 </li>
 				<!--<li class="dropdown">
