@@ -13,7 +13,7 @@
 		<div class="collapse navbar-collapse" id="sorskapu-navbar-collapse">
             <ul class="nav navbar-nav navbar-left">
 			    
-                <li><a href="/">Programok</a></li>
+                <!--<li><a href="/">Programok</a></li>-->
                 
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Módszerek <b class="caret"></b></a>
@@ -56,7 +56,7 @@
                             <li><a href="/asztrologia/a-nap-a-rendezoi-utasitas/">A Nap - a rendezői utasítás</a></li>                               
                         </ul>
                 </li>
-				<li class="dropdown">
+				<!--<li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Melléklet<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         <li><a href="/melleklet/gondolatok/">Gondolatok</a></li>
@@ -64,18 +64,30 @@
                         <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
 						<li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk</a></li>
 						<li><a href="/melleklet/a-gondolat-teremto-hatalma/">A gondolat teremtő hatalma</a></li>
-                        <!--<li class="divider"></li>-->
+                        <li class="divider"></li>-->
                         </ul>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kincsesláda<b class="caret"></b></a>
                         <ul class="dropdown-menu">
+                            <li class="dropdown-header" style="color:#00a2ff;">WEBSHOP</li>
                             <li><a href="/kincseslada/#peterorban">Peter Orban - A hős utazása</a></li>
                             <li><a href="/kincseslada/#card">Symbolon kellékek</a></li>
-                            <!--<li class="divider"></li>-->
+                            <li class="divider"></li>
+                            <li class="dropdown-header" style="color:#00a2ff;">HANGJÁTÉKOK</li>
+                            <li><a href="/hangjatekok/bert-hellinger-mese-a-duhos-kismajomrol/" class="guru">Bert Hellinger <br />Mese a dühös kismajomról</a></li>
+                            <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru">Karinthy Frigyes <br/>Minden másképp van</a></li>
+                            <li><a href="/melleklet/kapcsolatok/">Peter Orban<br/>Kapcsolatok</a></li>
+                            <li class="divider"></li>
+                            <li class="dropdown-header" style="color:#00a2ff;">MELLÉKLET</li>
+                            <li><a href="/melleklet/biztonsag/">Biztonság</a></li>
+                            <li><a href="/melleklet/mert-most-tukor-altal-homalyosan-latunk/">Mert most tükör által homályosan látunk</a></li>
+                            <li><a href="/melleklet/a-gondolat-teremto-hatalma/">A gondolat teremtő hatalma</a></li>
+                            <li><a href="/melleklet/gondolatok/">Gondolatok (Facebook kivonat)</a></li>
+
                         </ul>
                 </li>
-                <li class="dropdown">
+                <!--<li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Hangjátékok<b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header" style="color:#00a2ff;">Bert Hellinger</li>
@@ -86,7 +98,7 @@
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Peter Orban</li>
                             <li><a href="/melleklet/kapcsolatok/">Kapcsolatok</a></li>
-                            <!--<li class="divider"></li>-->
+                            <li class="divider"></li>-->
                         </ul>
                 </li>
                 <li class="dropdown">
