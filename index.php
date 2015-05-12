@@ -76,6 +76,7 @@
         <div class="container">
 		    <div class="row text-left">
 			<div class="col-lg-12">
+            <h3>I. CSALÁDÁLLÍTÁS</h3>
             <h4 class="text-center" style="margin:20px 0 0 0;">Ha részt akarsz venni valamelyik családállításon, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
             <h3 class="text-center" style="margin:0 0 20px 0;"><a href="/csaladfelallitas/jelentkezes/">JELENTKEZÉSI LAP</a></h3>
 			<div class="table-responsive">
