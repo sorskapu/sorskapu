@@ -77,9 +77,9 @@
 	
 	<div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 text-center">
 
-                <div class="panel panel-default">
+                <div class="panel panel-default" style="margin-top:100px;">
                     <div class="panel-heading"><h2>Symbolon tanfolyam</h2></div>
                     <div class="panel-body">
                     <p class="lead" style="text-align:justify;">Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen!</p>
