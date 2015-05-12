@@ -69,7 +69,7 @@
                 </li>-->
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kincsesláda<b class="caret"></b></a>
-                        <ul class="dropdown-menu">
+                        <ul class="dropdown-menu scrollable-menu">
                             <li class="dropdown-header" style="color:#00a2ff;">WEBSHOP</li>
                             <li><a href="/kincseslada/#peterorban">Peter Orban - A hős utazása</a></li>
                             <li><a href="/kincseslada/#card">Symbolon kellékek</a></li>
