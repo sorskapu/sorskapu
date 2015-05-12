@@ -131,6 +131,11 @@
     </tbody>
             </table>
         </div>
+
+        <h2 class="text-center bg-primary">II. ASZTROLÓGIAI ELEMZÉS</h2>
+        <h4 class="text-center" style="margin:20px 0 0 0;">Az asztrológiai elemzésre való felkészülésem kb. négy órát vesz igénybe, majd ezt követi egy másfél órás beszélgetés. Ára: 15.000Ft (bruttó)<br />< br/>Ha szeretnél időpontot kérni, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
+        <h3 class="text-center" style="margin:0 0 20px 0;"><a href="/asztrologia/jelentkezes/">JELENTKEZÉSI LAP</a></h3>
+
 		</div>
 		</div>
 	</div>
