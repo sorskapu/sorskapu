@@ -79,7 +79,8 @@
 								
 					<div class="well well-sm">
                     <center><a href="http://larion.eu/" target="_blank" alt="LARION.EU" title="LARION.EU"><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/banner-larion.jpg" />LARION.EU</a></center>
-					<!--<center><a href="http://szepesmariaalapitvany.hu/" alt="Szepes Mária Alapítvány" title="Szepes Mária Alapítvány"><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/banner-szepes-maria-alapitvany.jpg" /></a></center>-->
+					<center><a href="http://larion.eu/" target="_blank" alt="KŐRÖSI CSOMA SÁNDOR MAGYAR EGYETEM" title="KŐRÖSI CSOMA SÁNDOR MAGYAR EGYETEM"><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/korosi-egyetem-logo.jpg" />KŐRÖSI CSOMA SÁNDOR MAGYAR EGYETEM</a></center>
+                    <!--<center><a href="http://szepesmariaalapitvany.hu/" alt="Szepes Mária Alapítvány" title="Szepes Mária Alapítvány"><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/banner-szepes-maria-alapitvany.jpg" /></a></center>-->
 					
 					</div>
 																			    
