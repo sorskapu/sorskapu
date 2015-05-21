@@ -63,6 +63,7 @@
     <header id="top" class="header_symbolon">
         <div class="text-vertical-center">
             <a href="#tovabb" class="btn btn-dark btn-lg guru" style="margin-top:100px;">Symbolon tanfolyam</a><br /><br />
+            <a href="#reszlet" class="btn btn-dark btn-lg guru">Részlet</a><br /><br />
             <a href="#tovabb2" class="btn btn-dark btn-lg guru">Jelentkezés a tanfolyamra</a><br /><br />
             <!--<a href="#tovabb2" class="btn btn-dark btn-lg guru">Sybolon terápia</a><br /><br />-->
 			<div class="fb-like" data-href="http://www.sorskapu.hu/symbolon/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><br /><br />
@@ -94,6 +95,9 @@
                     <p class="lead" style="text-align:justify;">Szeretettel várom jelentkezéseiteket!</p>
                     <p class="lead" style="text-align:justify;">Kerekes Andrea<br />okleveles asztrológus</p>
                     <p class="lead" style="text-align:justify;"><center><img class="img-responsive" style="margin:21px auto 21px auto;" src="//cdn.sorskapu.hu/kerekes-andrea-asztrologus-kepzes-oklevel.jpg" /></center></p>
+                    <section id="reszlet">
+                    <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/0vCLl4Z-D2Q?rel=0" frameborder="0" allowfullscreen></iframe></div>
+                    </section>
                     </div>
                     </div>
 
