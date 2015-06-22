@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Szeretettel ajánljuk figyelmetekbe a 2015. január 23-ai előadás letölthető változatát!">
+    <meta name="description" content="Ezt az előadást nemcsak az asztrológia iránt érdeklődőknek ajánljuk, hiszen lelkünkkel kapcsolatos témákat érintünk benne.">
 	<meta name="keywords" content="Kerekes Andrea, asztrológia, Asztrológiai előadás, Szaturnusz, Isten, szabad akarat, félelem, sors, sorskapu,">
     <link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
 	
@@ -17,12 +17,12 @@
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
-	<meta property="og:title" content="Előadás a Szaturnuszról" />
-    <meta property="og:description" content="Szeretettel ajánljuk figyelmetekbe a 2015. január 23-ai előadás letölthető változatát!" />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_eloadas-001.jpg" />
+	<meta property="og:title" content="Asztrológiai előadás a Szaturnuszról" />
+    <meta property="og:description" content="Ezt az előadást nemcsak az asztrológia iránt érdeklődőknek ajánljuk, hiszen lelkünkkel kapcsolatos témákat érintünk benne." />
+    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_eloadas-001b.jpg" />
     <!-- Facebook Like End -->
 
-    <title>Előadás a Szaturnuszról</title>
+    <title>Asztrológiai előadás a Szaturnuszról</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -62,10 +62,10 @@
     <!--Header -->
     <header id="top" class="header_eloadas-001">
         <div class="text-vertical-center">
-            <a href="#tovabb" class="btn btn-dark btn-lg guru" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;">Előadás a Szaturnuszról - Ajánló</a></h4>
+            <a href="#tovabb" class="btn btn-dark btn-lg guru" style="margin-top:100px; margin-bottom:4px; word-wrap:break-word;">Asztrológiai előadás a Szaturnuszról</a></h4>
 			<div style="clear: both;"></div>
 			<br />
-            <a href="#tovabb2" class="btn btn-dark btn-lg guru">Megrendelés</a><br /><br />
+            <a href="#tovabb2" class="btn btn-dark btn-lg guru">Támogatás</a><br /><br />
 			<div class="fb-like" data-href="http://www.sorskapu.hu/eloadas-2015-01-23-szaturnusz/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
@@ -78,24 +78,8 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                    <div id="tovabb" class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/lOJOuFI_38M?rel=0" frameborder="0" allowfullscreen></iframe></div>
-				    
-                    <section id="tovabb2">
-				    <div class="col-md-6 col-md-offset-3" style="padding:50px 0;">
-                
-                    <div class="panel panel-default">
-                    <div class="panel-body">
-                    <div class="cognito">
-                    <script src="https://services.cognitoforms.com/include/required"></script>
-                    <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
-                    <script>Cognito.load("forms", { id: "4" });</script>
-                    </div>
-                    </div>
-                    </div>
-                      
-                    </div>
-                    </section>
-																								    
+                    <div id="tovabb" class="responsive-video"><iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpk2MMF1xRO_gOxPJ8o9kvaA" frameborder="0" allowfullscreen></iframe></div>
+				                        																								    
 				</div>
             </div>
             <!-- /.row -->
@@ -104,6 +88,48 @@
 		
     </section>
 	<!--/Asztrológia / Előadás a Szaturnuszról-->
+
+    <!--Bérlet-->
+    <section id="tovabb2" style="padding:50px 0;">
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                
+                            
+                    <div class="panel panel-default">
+                    <div class="panel-heading">
+                    <p class="lead">Bérletünk szabadáras, azaz Ön határozhatja meg, hogy milyen összeggel támogat minket. Nagylelkűségével további terveink megvalósulását segíti elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak Önre!</p>
+                    <p><a class="btn btn-primary btn-lg" href="vip/" role="button">Bérlettulajdonosok VIP Oldala</a></p>
+                    </div>
+                    <div class="panel-body">
+                    <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="https://s3-eu-west-1.amazonaws.com/sorskapu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
+                    
+                    <div class="col-md-6 col-md-offset-3 text-left">
+                
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                            <div class="cognito">
+                            <script src="https://services.cognitoforms.com/include/required"></script>
+                            <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
+                            <script>Cognito.load("forms", { id: "3" });</script>
+                            </div>
+                            </div>
+                        </div>  
+                                                                                                    
+                    </div>
+                    
+                    </div>
+                    </div>                                                  
+                                                                                                    
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+        
+    </section>
+    <!--/Bérlet-->
 	
 	<!-- FB Comments -->
 	    <div class="container">
