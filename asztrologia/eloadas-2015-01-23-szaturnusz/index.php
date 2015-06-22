@@ -66,7 +66,7 @@
 			<div style="clear: both;"></div>
 			<br />
             <a href="#tovabb2" class="btn btn-dark btn-lg guru">Támogatás</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/eloadas-2015-01-23-szaturnusz/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			<div class="fb-like" data-href="http://www.sorskapu.hu/asztrologia/eloadas-2015-01-23-szaturnusz/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 		</div>
 	</header>
     <!--/Header -->
@@ -76,7 +76,7 @@
 	
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-8 text-center">
 
                     <div id="tovabb" class="responsive-video"><iframe width="720" height="405" src="https://www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpk2MMF1xRO_gOxPJ8o9kvaA" frameborder="0" allowfullscreen></iframe></div>
 				                        																								    
