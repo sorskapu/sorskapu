@@ -76,7 +76,7 @@
 	
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 .col-lg-offset-2">
+                <div class="col-lg-12 text-center">
 
                     <div id="tovabb" class="responsive-video"><iframe width="720" height="405" src="https://www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpk2MMF1xRO_gOxPJ8o9kvaA" frameborder="0" allowfullscreen></iframe></div>
 				                        																								    
