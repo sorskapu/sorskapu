@@ -41,7 +41,7 @@
                             <li><a href="/asztrologia/jelentkezes/">Jelentkezés asztrológiai elemzésre</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Előadások</li>
-                            <li><a href="/asztrologia/eloadas-2015-01-23-szaturnusz/">Előadás a Szaturnuszról</a></li>
+                            <li><a href="/asztrologia/eloadas-2015-01-23-szaturnusz/">Asztrológiai előadás a Szaturnuszról</a></li>
                             <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">Asztrológiai időjárás-jelentés</li>
                             <li><a href="/asztrologia/2014-november-11-mars-pluto-egyuttallas/">2014. november 11. | Mars - Plútó együttállás</a></li>

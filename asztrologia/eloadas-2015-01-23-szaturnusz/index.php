@@ -78,7 +78,7 @@
             <div class="row">
                 <div class="col-lg-12">
 
-                    <div id="tovabb" class="responsive-video"><iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpk2MMF1xRO_gOxPJ8o9kvaA" frameborder="0" allowfullscreen></iframe></div>
+                    <div id="tovabb" class="responsive-video"><iframe width="720" height="405" src="https://www.youtube.com/embed/videoseries?list=PLsdXqNsQmlpk2MMF1xRO_gOxPJ8o9kvaA" frameborder="0" allowfullscreen></iframe></div>
 				                        																								    
 				</div>
             </div>
