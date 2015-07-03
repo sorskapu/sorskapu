@@ -6,24 +6,24 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Karinthy műve Kerekes Andrea előadásában.">
-	<meta name="keywords" content="Karinty Frigyes, Minden másképp van, hangoskönyv, hangjáték, Kerekes Andrea, szépirodalom, karcolatok, humoreszkek, sorskapu">
+    <meta name="description" content="Csögyam Trungpa - A szabadság mítosza (hangoskönyv) | Hangosköny Kerekes Andrea előadásában.">
+	<meta name="keywords" content="Csögyam Trungpa, A szabadság mítosza, hangoskönyv, hangjáték, Kerekes Andrea, buddhizmus, karma, sors, nemes nyolcrétű ösvény, négy nemes igazság, szerzetes, guru, tibet, böm, tradíció, hagyomány, átadás, átadási vonal, tanítás, előadás, buddhista tanító, amerika, usa, megvilágosodás, bódhiszattva, sorskapu">
 	<link rel="shortcut icon" href="http://cdn.sorskapu.hu/sorskapu.ico">
     
 	
 	<!-- Facebook -->
 	<meta property="fb:app_id" content="1459644830989485" />
     <meta property="fb:admins" content="100000956925477"/>
-    <meta property="og:url" content="http://www.sorskapu.hu/hangjatekok/karinthy-frigyes-minden-maskepp-van/"/>
+    <meta property="og:url" content="http://www.sorskapu.hu/hangoskonyvek/csogyam-trungpa-a-szabadsag-mitosza/"/>
     <meta property="og:locale" content="hu_HU" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
-	<meta property="og:title" content="Karinthy Frigyes - Minden másképp van" />
-    <meta property="og:description" content="Karinthy műve Kerekes Andrea előadásában." />
-    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_hangjatek-001.jpg" />
+	<meta property="og:title" content="Csögyam Trungpa - A szabadság mítosza" />
+    <meta property="og:description" content="Hangosköny Kerekes Andrea előadásában." />
+    <meta property="og:image" content="http://cdn.sorskapu.hu/fb_hk-001.jpg" />
     <!-- Facebook Like End -->
 
-    <title>Karinthy Frigyes - Minden másképp van</title>
+    <title>Csögyam Trungpa - A szabadság mítosza (hangoskönyv)</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
@@ -61,18 +61,18 @@
 	<!--/Menu-->
 
     <!--Header -->
-    <header id="top" class="header_hangjatek-001">
+    <header id="top" class="header_hk-001">
         <div class="text-vertical-center">
-            <h4 style="margin-top:100px;" class="btn btn-dark btn-lg">Karinthy Frigyes - Minden másképp van</h4>
+            <h4 style="margin-top:100px;" class="btn btn-dark btn-lg">Csögyam Trungpa - A szabadság mítosza</h4>
 			<div style="clear: both;"></div>
 			<br />
 			<a href="#tovabb" class="btn btn-dark btn-lg guru">Tovább</a><br /><br />
-			<div class="fb-like" data-href="http://www.sorskapu.hu/hangjatekok/karinthy-frigyes-minden-maskepp-van/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+			<div class="fb-like" data-href="http://www.sorskapu.hu/hangoskonyvek/csogyam-trungpa-a-szabadsag-mitosza/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
         </div>
 	</header>
 	<!--/Header-->
 	
-	<!--Karinthy Frigyes - Minden másképp van-->
+	<!--Csögyam Trungpa - A szabadság mítosza-->
 	<section id="tovabb" style="padding:50px 0;">
 	
 	<div class="container">
@@ -84,13 +84,13 @@
     </div>
 	
 	</section>
-	<!--/Karinthy Frigyes - Minden másképp van-->
+	<!--/Csögyam Trungpa - A szabadság mítosza-->
 	
 	<!--FB Comments-->
 	    <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-	                <div class="fb-comments" data-href="http://www.sorskapu.hu/hangjatekok/karinthy-frigyes-minden-maskepp-van/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
+	                <div class="fb-comments" data-href="http://www.sorskapu.hu/hangoskonyvek/csogyam-trungpa-a-szabadsag-mitosza/" data-width="100%" data-numposts="5" data-colorscheme="light"></div>
 	            </div>
             </div>																					    
 	    </div>
@@ -103,7 +103,7 @@
     <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                <div class="fb-like" data-href="http://www.sorskapu.hu/hangjatekok/karinthy-frigyes-minden-maskepp-van/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+                <div class="fb-like" data-href="http://www.sorskapu.hu/hangoskonyvek/csogyam-trungpa-a-szabadsag-mitosza/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
                 <br /><br />    
 
                 <!--kontakt-->

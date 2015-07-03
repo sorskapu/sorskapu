@@ -80,6 +80,9 @@
                             <li><a href="/kincseslada/#peterorban">Peter Orban - A hős utazása</a></li>
                             <li><a href="/kincseslada/#card">Symbolon kellékek</a></li>
                             <li class="divider"></li>
+                            <li class="dropdown-header" style="color:#00a2ff;">HANGOSKÖNYVEK</li>
+                            <li><a href="/hangoskonyvek/csogyam-trungpa-a-szabadsag-mitosza/" class="guru"><b>Csögyam Trungpa</b> <br />A szabadság mítosza</a></li>
+                            <li class="divider"></li>
                             <li class="dropdown-header" style="color:#00a2ff;">HANGJÁTÉKOK</li>
                             <li><a href="/hangjatekok/bert-hellinger-mese-a-duhos-kismajomrol/" class="guru"><b>Bert Hellinger</b> <br />Mese a dühös kismajomról</a></li>
                             <li><a href="/hangjatekok/karinthy-frigyes-minden-maskepp-van/" class="guru"><b>Karinthy Frigyes</b> <br />Minden másképp van</a></li>
