@@ -74,16 +74,22 @@
 	
 	<!--Csögyam Trungpa - A szabadság mítosza-->
 	<section id="tovabb" style="padding:50px 0;">
-	
-	<div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-	            <div class="responsive-video"><iframe width="1140" height="641" src="//www.youtube.com/embed/gznkQh0Chh0?rel=0" frameborder="0" allowfullscreen></iframe></div>		
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+
+                    <div class="col-md-8 col-md-offset-2">
+                    <div id="tovabb" class="responsive-video"><iframe width="720" height="405" src="https://youtu.be/ssYHiHnkijY?list=PLsdXqNsQmlpl1OnallgC2Oka2TVJ6EVuc" frameborder="0" allowfullscreen></iframe></div>                                                                                  
+                    </div>
+
+                </div>
             </div>
+            <!-- /.row -->
         </div>
-    </div>
-	
-	</section>
+        <!-- /.container -->
+        
+    </section>
 	<!--/Csögyam Trungpa - A szabadság mítosza-->
 	
 	<!--FB Comments-->
