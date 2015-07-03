@@ -80,7 +80,7 @@
                 <div class="col-lg-12 text-center">
 
                     <div class="col-md-8 col-md-offset-2">
-                    <div id="tovabb" class="responsive-video"><iframe width="720" height="405" src="https://youtu.be/ssYHiHnkijY?list=PLsdXqNsQmlpl1OnallgC2Oka2TVJ6EVuc" frameborder="0" allowfullscreen></iframe></div>                                                                                  
+                    <div id="tovabb" class="responsive-video"><iframe width="720" height="405" src="https://www.youtube.com/embed/ssYHiHnkijY?list=PLsdXqNsQmlpl1OnallgC2Oka2TVJ6EVuc" frameborder="0" allowfullscreen></iframe></div>                                                                                  
                     </div>
 
                 </div>
@@ -91,6 +91,48 @@
         
     </section>
 	<!--/Csögyam Trungpa - A szabadság mítosza-->
+
+    <!--Bérlet-->
+    <section id="tovabb2" style="padding:50px 0;">
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                
+                            
+                    <div class="panel panel-default">
+                    <div class="panel-heading">
+                    <p class="lead">Bérletünk szabadáras, azaz Ön határozhatja meg, hogy milyen összeggel támogat minket. Nagylelkűségével további terveink megvalósulását segíti elő. Hálánk jeléül különböző kedvezmények és meglepetések várnak Önre!</p>
+                    <p><a class="btn btn-primary btn-lg" href="vip/" role="button">Bérlettulajdonosok VIP Oldala</a></p>
+                    </div>
+                    <div class="panel-body">
+                    <p class="lead"><img class="img-responsive" style="margin:0 auto 0 auto;" src="https://s3-eu-west-1.amazonaws.com/sorskapu/berlet-ganesha.jpg" alt="Sorskapu - Bérlet | Megálmodni, megteremteni és fenntartani!" /></p>
+                    
+                    <div class="col-md-6 col-md-offset-3 text-left">
+                
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                            <div class="cognito">
+                            <script src="https://services.cognitoforms.com/include/required"></script>
+                            <script src="https://services.cognitoforms.com/session/script/100ca1c9-098e-4c44-ab18-5473ee7eafc5"></script>
+                            <script>Cognito.load("forms", { id: "3" });</script>
+                            </div>
+                            </div>
+                        </div>  
+                                                                                                    
+                    </div>
+                    
+                    </div>
+                    </div>                                                  
+                                                                                                    
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+        
+    </section>
+    <!--/Bérlet-->
 	
 	<!--FB Comments-->
 	    <div class="container">
