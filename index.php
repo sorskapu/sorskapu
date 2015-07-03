@@ -91,21 +91,14 @@
         </tr>
     </thead>
     <tbody>
-       <tr class="active">
+       <!--<tr class="active">
             <td>2015. május 16. <br />szombat<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
             <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
             <td><b>Saját állítással:</b> <br />11.811 Ft + ÁFA = 15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Azok számára, akik először jönnek hozzám a csoportba <br />és nem kérnek saját állítást, a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />3.000 Ft</td>
-        </tr>
-        <tr class="info">
-            <td>2015. június 20. <br />szombat<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
-            <td>09:00 - 19:00</td>
-            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
-            <td><b>Budapest</b><br />Bed-Breakfast Hotel Budapest <a href="http://www.bedbreakfast.hu/">(info)</a> <br />1031 Budapest, Rozália utca 76-78. <a href="https://www.google.hu/maps/place/Bed-Breakfast+Hotel+Budapest/@47.578012,19.046826,17z/data=!3m1!4b1!4m2!3m1!1s0x4741d995880af60f:0xad0542f951cdeb27?hl=hu">(térkép)</a> <br /><br />Akik előre jelzik étkezési szándékukat, azok számára a hotel <br /> hidegtálas svédasztalt biztosít, 1.000 Ft/fő áron.<br /><br />Szükség esetén a hotel <i>kedvezményes áron</i> szállást is tud biztosítani!</td>
-            <td><b>Saját állítással:</b> <br />11.811 Ft + ÁFA = 15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Azok számára, akik először jönnek hozzám a csoportba <br />és nem kérnek saját állítást, a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />3.000 Ft</td>
-        </tr>
-	
+        </tr>-->
+        	
         <!--
 		<tr class="active">
 
@@ -135,11 +128,11 @@
         <h2 class="text-center bg-danger" style="margin:50px 0 0 0;">II. Asztrológiai elemzés</h2>
         <h4 class="text-center" style="margin:20px 0 0 0;">Az asztrológiai elemzésre való felkészülésem kb. négy órát vesz igénybe, majd ezt követi egy másfél órás beszélgetés. <br />Ára: 15.000Ft (bruttó)<br /><br />Ha szeretnél időpontot kérni, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
         <h3 class="text-center" style="margin:0 0 20px 0;"><a href="/asztrologia/jelentkezes/">JELENTKEZÉSI LAP</a></h3>
-
+        <!--
         <h2 class="text-center bg-info" style="margin:50px 0 0 0;">III. Symbolon tanfolyam</h2>
         <h4 class="text-center" style="margin:20px 0 0 0;">Symbolon tanfolyamunkra folyamatosan várjuk azok jelentkezését, akik szeretnének megismerkedni az asztrológiával, egy kicsit másképpen! <br />Aktuális tanfolyamunk 2015. április 24-én indult, Budapesten. Kéthetente (pénteken) találkozunk és 17 órától 21 óráig tanulunk. <br />A tandíj: 1500 Ft + áfa óránként. (Értelemszerűen egy alkalom így bruttó 7500 Ft-ba kerül.)<br /><br />Ha szeretnél szeretnél részt venni a tanfolyamon, kérjük, töltsd ki az alábbi jelentkezési lapot:</a></h4>
         <h3 class="text-center" style="margin:0 0 20px 0;"><a href="/symbolon/#tovabb2">JELENTKEZÉSI LAP</a></h3>
-
+        -->
 		</div>
 		</div>
 	</div>
