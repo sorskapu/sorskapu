@@ -18,7 +18,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Módszerek <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/magunkrol/">Magunkról</a></li>
+                            <!--<li><a href="/magunkrol/">Magunkról</a></li>-->
                             <li><a href="/csaladfelallitas/">Családállítás</a></li>
                             <li><a href="/asztrologia/">Asztrológia</a></li>
                             <li><a href="/symbolon/">Symbolon</a></li>
