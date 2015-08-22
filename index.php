@@ -100,11 +100,27 @@
             <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
+        <tr class="info">
+            <td>2015. szeptember 26. <br />szombat<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Tököl</b></td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
+        </tr>
+
         <tr class="danger">
             <td>2015. október 11. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
             <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
+        </tr>
+
+        <tr class="info">
+            <td>2015. október 24. <br />szombat<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Miskolc</b></td>
             <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
