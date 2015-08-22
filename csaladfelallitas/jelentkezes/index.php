@@ -18,7 +18,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Jelentkezés családállításra!" />
-    <meta property="og:description" content="Legközelebbi időpontok: 2015.09.13. (Budapest) | 2015.09.26. (Tököl) | 2015.10.11. (Budapest) | 2015.10.24. (Miskolc) Csoportvezető: Kerekes Andrea" />
+    <meta property="og:description" content="Legközelebbi időpontok: 2015.09.13. (Budapest) | 2015.09.26. (Tököl) | 2015.10.11. (Budapest) | 2015.10.24. (Miskolc) Csoportvezető: Kerekes Andrea | A jelentkezési lap kitöltéséhez kattints a képre" /> 
     <meta property="og:image" content="http://cdn.sorskapu.hu/fb_csaladallitas.jpg" />
     <!-- Facebook Like End -->
  
