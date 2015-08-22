@@ -124,7 +124,7 @@
             <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
-        <tr class="info">
+        <tr class="active">
             <td>2016. április 17. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
@@ -132,7 +132,7 @@
             <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
-        <tr class="active">
+        <tr class="info">
             <td>2016. május 22. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>

@@ -18,7 +18,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Jelentkezési lap" />
-    <meta property="og:description" content="Jelentkezés családállításra!" />
+    <meta property="og:description" content="Jelentkezés családállításra! Legközelebbi időpont: 2015. szeptember 13." />
     <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/sorskapu/fb_csaladfelallitas.jpg" />
     <!-- Facebook Like End -->
  
@@ -140,7 +140,7 @@
             <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
-        <tr class="info">
+        <tr class="active">
             <td>2016. április 17. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
@@ -148,7 +148,7 @@
             <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
-        <tr class="active">
+        <tr class="info">
             <td>2016. május 22. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
