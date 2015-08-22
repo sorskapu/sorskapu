@@ -91,39 +91,54 @@
         </tr>
     </thead>
     <tbody>
-       <tr class="active">
-            <td>2015. július 28. <br />kedd<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
-            <td>09:00 - 19:00</td>
-            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
-            <td><b>Budapest</b><br /></td>
-            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
-        </tr>
-        	
-        <!--
-		<tr class="active">
-            <td>2015. július 28. <br />kedd<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+             	
+       	<tr class="active">
+            <td>2015. szeptember 13. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
             <td>09:00 - 19:00</td>
             <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
             <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
-            <td><b>Saját állítással:</b> <br />11.811 Ft + ÁFA = 15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />Azok számára, akik először jönnek hozzám a csoportba <br />és nem kérnek saját állítást, a részvétel <u>ingyenes</u>! <br /><br />Minden további alkalom (saját állítás nélkül): <br />3.000 Ft</td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
         <tr class="danger">
-
+            <td>2015. október 11. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
         <tr class="warning">
-
+            <td>2015. november 8. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
-        <tr class="success"
-
+        <tr class="success">
+            <td>2016. március 20. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
 
         <tr class="info">
-
+            <td>2016. április 17. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
         </tr>
-        -->
+
+        <tr class="active">
+            <td>2016. május 22. <br />vasárnap<br /><a href="/csaladfelallitas/jelentkezes/" class="guru">Jelentkezési lap</a></td>
+            <td>09:00 - 19:00</td>
+            <td><a href="/csaladfelallitas/" alt="családfelállítás, családállítás">Családfelállítás</a></td>
+            <td><b>Budapest</b><br />Csillebérci Oktatási Központ  <br />1121 Budapest, Konkoly-Thege Miklós utca 21. <a href="https://goo.gl/maps/F30In">(térkép)</a> </td>
+            <td><b>Saját állítással:</b> <br />15.000 Ft<br /><br /><b>Saját állítás nélkül:</b><br />3.000 Ft</td>
+        </tr>
 
     </tbody>
             </table>
