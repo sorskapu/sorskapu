@@ -18,7 +18,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Sorskapu" />
 	<meta property="og:title" content="Jelentkezés asztrológiai elemzésre!" />
-    <meta property="og:description" content="Ha szeretnéd megtudni, mit árul el a Te saját horoszkópod rólad, a személyiségedről, az életutadról, sorsfeladataidról, akkor kattints a képre és add le a jelentezési lapot! Kerekes Andrea" />
+    <meta property="og:description" content="Ha szeretnéd megtudni, mit árul el a Te saját horoszkópod rólad, a személyiségedről, az életutadról, sorsfeladataidról, akkor kattints a képre, és add le a jelentkezési lapot! Köszönöm a bizalmat! Kerekes Andrea" />
     <meta property="og:image" content="http://cdn.sorskapu.hu/fb_asztrologia.jpg" />
     <!-- Facebook Like End -->
  
